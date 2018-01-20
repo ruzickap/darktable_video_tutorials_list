@@ -169,6 +169,25 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ### German
 
 
+# Darktable YouTube playlists:
+
+* Author: [David LaCivita](https://www.youtube.com/channel/UC8ThgxLUpI1g7qns2akHC4g) (https://dlaciv12.tumblr.com/)
+
+  https://www.youtube.com/playlist?list=PLAI-AAfBHP5Q-eJGgO8bm_cPRJKNHyNnD
+
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+
+  https://www.youtube.com/playlist?list=PLsks-zRRM1ZVN_g7P6ZAsYVqTltmXyBjl
+
+* Author: [Kyle Clements](https://www.youtube.com/channel/UCNWnBhDVnHflg1if2G2s0Lw) (http://kyleclements.com/)
+
+  https://www.youtube.com/playlist?list=PLUh5_EzF8dylZByhSmvSpRTb5naQviIVC
+
+* Author: [Riley Brandt](https://www.youtube.com/channel/UCt6U6IJ2myOToBFeVL-EaXA) (https://www.rileybrandt.com/)
+
+  https://www.youtube.com/playlist?list=PL33t7emXCBHkMfiP1IcO-0_4mUAhh1lFA
+
+
 # Notes
 
 For adding new screenshots you can use [MPV](https://mpv.io/):
