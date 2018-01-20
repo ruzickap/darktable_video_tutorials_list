@@ -42,6 +42,18 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![Darktable Edit Tutorial. Funky 70s look with current commercial trend feel](screenshots/Darktable_Edit_Tutorial._Funky_70s_look_with_current_commercial_trend_feel-04:35.jpg "Darktable Edit Tutorial. Funky 70s look with current commercial trend feel (04:35)")
 ![Darktable Edit Tutorial. Funky 70s look with current commercial trend feel](screenshots/Darktable_Edit_Tutorial._Funky_70s_look_with_current_commercial_trend_feel-11:38.jpg "Darktable Edit Tutorial. Funky 70s look with current commercial trend feel (11:38)")
 
+### [Darktable Noise Removal | Darktable Quick Tips](https://youtu.be/YJ4W60VeJ0I)
+* Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
+* Video Length: 04:43
+* Video Resolution: 1280x720
+![Darktable Noise Removal | Darktable Quick Tips](screenshots/Darktable_Noise_Removal_-_Darktable_Quick_Tips-00:15.jpg "Darktable Noise Removal | Darktable Quick Tips (00:15)")
+
+### [Darktable Tutorial :: How to fake fall colors](https://youtu.be/r-nYkDAkVmU)
+* Author: [blur.bz](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Video Length: 04:21
+* Video Resolution: 2560x1440
+![Darktable Tutorial :: How to fake fall colors](screenshots/Darktable_Tutorial_::_-_How_to_fake_fall_colors-00:45.jpg "Darktable Tutorial :: How to fake fall colors (00:45)")
+
 
 ### French
 
