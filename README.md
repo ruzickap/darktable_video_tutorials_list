@@ -35,6 +35,46 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 1920x1080
 ![Darktable Edit #1 - Sunset on Mauna Kea](screenshots/Darktable_Edit_1_-_Sunset_on_Mauna_Kea-00:12.jpg "Darktable Edit #1 - Sunset on Mauna Kea (00:12)")
 
+### [Darktable Edit #2 - Washington Bridge, New York City](https://youtu.be/dYDCYCwPlMY)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 30:39
+* Video Resolution: 1920x1080
+![Darktable Edit #2 - Washington Bridge, New York City](screenshots/Darktable_Edit_2_-_Washington_Bridge,_New_York_City-00:10.jpg "Darktable Edit #2 - Washington Bridge, New York City (00:10))")
+
+### [Darktable Edit #3 - Sunrise Waves](https://youtu.be/aU8z81INOBU)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 41:53
+* Video Resolution: 1920x1080
+![Darktable Edit #3 - Sunrise Waves](screenshots/Darktable_Edit_3_-_Sunrise_Waves-00:05.jpg "Darktable Edit #3 - Sunrise Waves (00:05)")
+
+### [Darktable edit #4 - Windward Sunset](https://youtu.be/qNNm4g-mUKU)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 41:16
+* Video Resolution: 1920x1080
+![Darktable edit #4 - Windward Sunset](screenshots/Darktable_edit_4_-_Windward_Sunset-00:05.jpg "Darktable edit #4 - Windward Sunset (00:05)")
+
+### [Darktable edit #5 - Blownout Highlights](https://youtu.be/JF5CFQPgidk)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 21:57
+* Video Resolution: 1920x1080
+![Darktable edit #5 - Blownout Highlights](screenshots/Darktable_edit_5_-_Blownout_Highlights-00:25.jpg "Darktable edit #5 - Blownout Highlights (00:25)")
+![Darktable edit #5 - Blownout Highlights](screenshots/Darktable_edit_5_-_Blownout_Highlights-11:45.jpg "Darktable edit #5 - Blownout Highlights (11:45)")
+![Darktable edit #5 - Blownout Highlights](screenshots/Darktable_edit_5_-_Blownout_Highlights-14:25.jpg "Darktable edit #5 - Blownout Highlights (14:25)")
+![Darktable edit #5 - Blownout Highlights](screenshots/Darktable_edit_5_-_Blownout_Highlights-16:05.jpg "Darktable edit #5 - Blownout Highlights (16:05)")
+![Darktable edit #5 - Blownout Highlights](screenshots/Darktable_edit_5_-_Blownout_Highlights-19:00.jpg "Darktable edit #5 - Blownout Highlights (19:00)")
+
+### [Darktable edit #6 - Lush Glen in Scotland](https://youtu.be/EAm3-4Ggnpc)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 1:08:12
+* Video Resolution: 1920x1080
+![Darktable edit #6 - Lush Glen in Scotland](screenshots/Darktable_edit_6_-_Lush_Glen_in_Scotland-02:20.jpg "Darktable edit #6 - Lush Glen in Scotland (02:20)")
+
+### [Darktable edit #7 - Milky Way and Palm Trees](https://youtu.be/D4_0mkkSIKo)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 35:17
+* Video Resolution: 1920x1080
+![Darktable edit #7 - Milky Way and Palm Trees](screenshots/Darktable_edit_7_-_Milky_Way_and_Palm_Trees-00:05.jpg "Darktable edit #7 - Milky Way and Palm Trees (00:05)")
+
 ### [Darktable Edit Tutorial. Funky 70s look with current commercial trend feel](https://youtu.be/_aY7LtkovK4)
 * Author: [blur.bz](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
 * Video Length: 13:42
@@ -53,6 +93,13 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Length: 04:21
 * Video Resolution: 2560x1440
 ![Darktable Tutorial :: How to fake fall colors](screenshots/Darktable_Tutorial_::_-_How_to_fake_fall_colors-00:45.jpg "Darktable Tutorial :: How to fake fall colors (00:45)")
+
+### [New Features in darktable 2.4](https://youtu.be/5_dRBKghX34)
+* Author: [David LaCivita](https://www.youtube.com/channel/UC8ThgxLUpI1g7qns2akHC4g) (https://dlaciv12.tumblr.com/)
+* Video Length: 18:20
+* Video Resolution: 1280x720
+![New Features in darktable 2.4](screenshots/New_Features_in_darktable_2.4-00:05.jpg "New Features in darktable 2.4 (00:05)")
+![New Features in darktable 2.4](screenshots/New_Features_in_darktable_2.4-09:25.jpg "New Features in darktable 2.4 (09:25)")
 
 
 ### French
