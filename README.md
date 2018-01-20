@@ -16,6 +16,18 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![A Demonstration of Darktable Masks | Darktable Tutorial #07](screenshots/A_Demonstration_of_Darktable_Masks_-_Darktable_Tutorial_07-00:28.jpg "A Demonstration of Darktable Masks | Darktable Tutorial #07 (00:28)")
 ![A Demonstration of Darktable Masks | Darktable Tutorial #07](screenshots/A_Demonstration_of_Darktable_Masks_-_Darktable_Tutorial_07-01:52.jpg "A Demonstration of Darktable Masks | Darktable Tutorial #07 (01:52)")
 
+### [Combining Drawn Masks](https://youtu.be/WpcPiL9A60c)
+* Author: [David LaCivita](https://www.youtube.com/channel/UC8ThgxLUpI1g7qns2akHC4g) (https://dlaciv12.tumblr.com/)
+* Video Length: 08:52
+* Video Resolution: 854x480
+![Combining Drawn Masks](screenshots/Combining_Drawn_Masks-00:05.jpg "Combining Drawn Masks (00:05)")
+
+### [Correcting for Under Exposure in Darktable](https://youtu.be/rggsIdSEyoE)
+* Author: [Kyle Clements](https://www.youtube.com/channel/UCNWnBhDVnHflg1if2G2s0Lw) (http://kyleclements.com/)
+* Video Length: 10:20
+* Video Resolution: 1920x1080
+![Correcting for Under Exposure in Darktable](screenshots/Correcting_for_Under_Exposure_in_Darktable-00:10.jpg "Correcting for Under Exposure in Darktable (00:10)")
+
 ### [Darktable - 3 different ways to create Black and White](https://youtu.be/bE2cpBzYcJo)
 * Author: [Julien Pons](https://www.youtube.com/channel/UCqRhZuyq7Rmz2bhxgPbu6-A) (https://www.julienpons.com/)
 * Video Length: 09:00
@@ -94,6 +106,18 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 2560x1440
 ![Darktable Tutorial :: How to fake fall colors](screenshots/Darktable_Tutorial_::_-_How_to_fake_fall_colors-00:45.jpg "Darktable Tutorial :: How to fake fall colors (00:45)")
 
+### [Darktable: Getting the Hollywood Blockbuster Look](https://youtu.be/rgNU4ZtfzEs)
+* Author: [Kyle Clements](https://www.youtube.com/channel/UCNWnBhDVnHflg1if2G2s0Lw) (http://kyleclements.com/)
+* Video Length: 05:47
+* Video Resolution: 1920x1080
+![Darktable: Getting the Hollywood Blockbuster Look](screenshots/Darktable_-_Getting_the_Hollywood_Blockbuster_Look-00:25.jpg "Darktable: Getting the Hollywood Blockbuster Look (00:25)")
+
+### [Darktable: Making Images Pop](https://youtu.be/FtJNVsM18AU)
+* Author: [Kyle Clements](https://www.youtube.com/channel/UCNWnBhDVnHflg1if2G2s0Lw) (http://kyleclements.com/)
+* Video Length: 04:26
+* Video Resolution: 1920x1080
+![Darktable: Making Images Pop](screenshots/Darktable_-_Making_Images_Pop-01:15.jpg "Darktable: Making Images Pop (01:15)")
+
 ### [Editing Glamour In Darktable](https://youtu.be/jiPVeUGBr5U)
 * Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
 * Video Length: 08:25
@@ -109,11 +133,19 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![How to Add Saturation in Darktable | Darktable Tutorial #04](screenshots/How_to_Add_Saturation_in_Darktable_-_Darktable_Tutorial_04-02:45.jpg "How to Add Saturation in Darktable | Darktable Tutorial #04 (02:45)")
 ![How to Add Saturation in Darktable | Darktable Tutorial #04](screenshots/How_to_Add_Saturation_in_Darktable_-_Darktable_Tutorial_04-06:10.jpg "How to Add Saturation in Darktable | Darktable Tutorial #04 (06:10)")
 
+### [How to Quickly Edit a Photo in Darktable | Darktable Tutorial #08](https://youtu.be/z9cjx5rZyIA)
+* Author: [Riley Brandt](https://www.youtube.com/channel/UCt6U6IJ2myOToBFeVL-EaXA) (https://www.rileybrandt.com/)
+* Video Length: 04:54
+* Video Resolution: 2560x1440
+![How to Quickly Edit a Photo in Darktable | Darktable Tutorial #08](screenshots/How_to_Quickly_Edit_a_Photo_in_Darktable_-_Darktable_Tutorial_08-00:20.jpg "How to Quickly Edit a Photo in Darktable | Darktable Tutorial #08 (00:20)")
+
 ### [How to Fix Color Fringing | Darktable Tutorial #06](https://youtu.be/cruud_MEr_U)
 * Author: [Riley Brandt](https://www.youtube.com/channel/UCt6U6IJ2myOToBFeVL-EaXA) (https://www.rileybrandt.com/)
 * Video Length: 06:16
 * Video Resolution: 2560x1440
 ![How to Fix Color Fringing | Darktable Tutorial #06](screenshots/How_to_Fix_Color_Fringing_-_Darktable_Tutorial_06-00:15.jpg "How to Fix Color Fringing | Darktable Tutorial #06 (00:15)")
+![How to Fix Color Fringing | Darktable Tutorial #06](screenshots/How_to_Fix_Color_Fringing_-_Darktable_Tutorial_06-02:50.jpg "How to Fix Color Fringing | Darktable Tutorial #06 (02:50)")
+![How to Fix Color Fringing | Darktable Tutorial #06](screenshots/How_to_Fix_Color_Fringing_-_Darktable_Tutorial_06-04:00.jpg "How to Fix Color Fringing | Darktable Tutorial #06 (04:00)")
 
 ### [Lowpass, Highpass and how I use them](https://youtu.be/s0kjSvW93L0)
 * Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
@@ -123,6 +155,14 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![Lowpass, Highpass and how I use them](screenshots/Lowpass,_Highpass_and_how_I_use_them-04:40.jpg "Lowpass, Highpass and how I use them (04:40)")
 ![Lowpass, Highpass and how I use them](screenshots/Lowpass,_Highpass_and_how_I_use_them-09:25.jpg "Lowpass, Highpass and how I use them (09:25)")
 ![Lowpass, Highpass and how I use them](screenshots/Lowpass,_Highpass_and_how_I_use_them-20:50.jpg "Lowpass, Highpass and how I use them (20:50)")
+
+### [Making Lightroom Edits Using darktable](https://youtu.be/2RvOY7XoHWk)
+* Author: [David LaCivita](https://www.youtube.com/channel/UC8ThgxLUpI1g7qns2akHC4g) (https://dlaciv12.tumblr.com/)
+* Video Length: 23:58
+* Video Resolution: 1280x720
+![Making Lightroom Edits Using darktable](screenshots/Making_Lightroom_Edits_Using_darktable-04:20.jpg "Making Lightroom Edits Using darktable (04:25)")
+![Making Lightroom Edits Using darktable](screenshots/Making_Lightroom_Edits_Using_darktable-05:35.jpg "Making Lightroom Edits Using darktable (05:35)")
+![Making Lightroom Edits Using darktable](screenshots/Making_Lightroom_Edits_Using_darktable-14:10.jpg "Making Lightroom Edits Using darktable (14:10)")
 
 ### [Making Your Greens Pop in Darktable](https://youtu.be/5_dRBKghX34)
 * Author: [Kyle Clements](https://www.youtube.com/channel/UCNWnBhDVnHflg1if2G2s0Lw) (http://kyleclements.com/)
@@ -161,6 +201,13 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Length: 03:24
 * Video Resolution: 2560x1440
 ![Using Drawn Masks in Darktable to Sharpen Select Areas.](screenshots/Using_Drawn_Masks_in_Darktable_to_Sharpen_Select_Areas.-00:15.jpg "Using Drawn Masks in Darktable to Sharpen Select Areas. (00:15)")
+
+### [Using White Balance Creatively in DarkTable](https://youtu.be/OgiTo9gsNO0)
+* Author: [Kyle Clements](https://www.youtube.com/channel/UCNWnBhDVnHflg1if2G2s0Lw) (http://kyleclements.com/)
+* Video Length: 04:21
+* Video Resolution: 1280x720
+![Using White Balance Creatively in DarkTable](screenshots/Using_White_Balance_Creatively_in_DarkTable-00:10.jpg "Using White Balance Creatively in DarkTable (00:10)")
+
 
 
 ### French
