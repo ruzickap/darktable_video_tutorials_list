@@ -119,10 +119,10 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
 * Video Length: 45:49
 * Video Resolution: 1920x1080
-![Lowpass, Highpass and how I use them](screenshots/_Highpass_and_how_I_use_them-00:10.jpg "Lowpass, Highpass and how I use them (00:10)")
-![Lowpass, Highpass and how I use them](screenshots/_Highpass_and_how_I_use_them-04:40.jpg "Lowpass, Highpass and how I use them (04:40)")
-![Lowpass, Highpass and how I use them](screenshots/_Highpass_and_how_I_use_them-09:25.jpg "Lowpass, Highpass and how I use them (09:25)")
-![Lowpass, Highpass and how I use them](screenshots/_Highpass_and_how_I_use_them-20:50.jpg "Lowpass, Highpass and how I use them (20:50)")
+![Lowpass, Highpass and how I use them](screenshots/Lowpass,_Highpass_and_how_I_use_them-00:10.jpg "Lowpass, Highpass and how I use them (00:10)")
+![Lowpass, Highpass and how I use them](screenshots/Lowpass,_Highpass_and_how_I_use_them-04:40.jpg "Lowpass, Highpass and how I use them (04:40)")
+![Lowpass, Highpass and how I use them](screenshots/Lowpass,_Highpass_and_how_I_use_them-09:25.jpg "Lowpass, Highpass and how I use them (09:25)")
+![Lowpass, Highpass and how I use them](screenshots/Lowpass,_Highpass_and_how_I_use_them-20:50.jpg "Lowpass, Highpass and how I use them (20:50)")
 
 ### [Making Your Greens Pop in Darktable](https://youtu.be/5_dRBKghX34)
 * Author: [Kyle Clements](https://www.youtube.com/channel/UCNWnBhDVnHflg1if2G2s0Lw) (http://kyleclements.com/)
