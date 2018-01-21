@@ -9,14 +9,14 @@ before_script:
 script:
   # Getting the URLs ftom title which should be unique for sure
   - grep ^### README.md > /tmp/README.md-unique_urls
-  - awesome_bot --allow-redirect /tmp/README.md-unique_urls
+  - awesome_bot --allow-redirect --white-list 'https://youtu.be/$' /tmp/README.md-unique_urls
 
-  # Checking the duplicate Video Length values which should unlikely be the same (except 04:21)
-  - export DUPLICATE_VIDEO_LENGTH=`grep '* Video Length:' README.md | grep -v '04:21' | sort | uniq -d`
+  # Checking the duplicate Video Length values which should unlikely be the same
+  - export DUPLICATE_VIDEO_LENGTH=`grep '* Video Length:' README.md | sort | uniq -d`
   - if `echo "${DUPLICATE_VIDEO_LENGTH}" | grep Video`; then echo -e "\n*** Found duplicate Video Length values which is probably copy&paste typo."; exit 1; else echo -e "\n*** Test OK"; fi
 
   # Checking all URLs
-  - awesome_bot --allow-dupe --allow-redirect README.md
+  - awesome_bot --allow-dupe --allow-redirect --white-list 'https://youtu.be/$' README.md
 
   # Check if the tutorials are properly sorted
   - grep "^###" README.md > /tmp/tutorials
