@@ -125,7 +125,7 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![Editing Glamour In Darktable](screenshots/Editing_Glamour_In_Darktable-00:10.jpg "Editing Glamour In Darktable (00:10)")
 ![Editing Glamour In Darktable](screenshots/Editing_Glamour_In_Darktable-04:30.jpg "Editing Glamour In Darktable (04:30)")
 
-### [How to Add Saturation in Darktable | Darktable Tutorial #04](https://youtu.be/SKknBy5lX7I)
+### [How to Add Saturation in Darktable | Darktable Tutorial #04](https://youtu.be/K_882yX6dIU)
 * Author: [Riley Brandt](https://www.youtube.com/channel/UCt6U6IJ2myOToBFeVL-EaXA) (https://www.rileybrandt.com/)
 * Video Length: 07:23
 * Video Resolution: 2560x1440
@@ -164,7 +164,7 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![Making Lightroom Edits Using darktable](screenshots/Making_Lightroom_Edits_Using_darktable-05:35.jpg "Making Lightroom Edits Using darktable (05:35)")
 ![Making Lightroom Edits Using darktable](screenshots/Making_Lightroom_Edits_Using_darktable-14:10.jpg "Making Lightroom Edits Using darktable (14:10)")
 
-### [Making Your Greens Pop in Darktable](https://youtu.be/5_dRBKghX34)
+### [Making Your Greens Pop in Darktable](https://youtu.be/Y_b-kfCYMO8)
 * Author: [Kyle Clements](https://www.youtube.com/channel/UCNWnBhDVnHflg1if2G2s0Lw) (http://kyleclements.com/)
 * Video Length: 03:28
 * Video Resolution: 2560x1440
