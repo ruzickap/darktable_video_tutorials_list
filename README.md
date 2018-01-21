@@ -9,6 +9,43 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 
 ## English
 
+### [1 Shot HDR](https://youtu.be/JMclhcWRV6Y)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 56:38
+* Video Resolution: 1920x1080
+![1 Shot HDR](screenshots/1_Shot_HDR-00:15.jpg "1 Shot HDR (00:15)")
+![1 Shot HDR](screenshots/1_Shot_HDR-26:00.jpg "1 Shot HDR (26:00)")
+
+### [Additional thoughts on camera profiling](https://youtu.be/U8Wt9cHmX8Q)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 16:23
+* Video Resolution: 1920x1080
+![Additional thoughts on camera profiling](screenshots/Additional_thoughts_on_camera_profiling-00:15.jpg "Additional thoughts on camera profiling (00:15)")
+
+### [Advancetown Lake](https://youtu.be/oj58IGnQhVg)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 33:36
+* Video Resolution: 1920x1080
+![Advancetown Lake](screenshots/Advancetown_Lake-01:30.jpg "Advancetown Lake (01:30)")
+
+### [Animate your edit](https://youtu.be/6y3-ESiyUpM)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 40:02
+* Video Resolution: 1920x1080
+![Animate your edit](screenshots/Animate_your_edit-00:15.jpg "Animate your edit (00:15)")
+
+### [Another Windward Sunrise](https://youtu.be/sIz_TCulDqw)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 34:56
+* Video Resolution: 1920x1080
+![Another Windward Sunrise](screenshots/Another_Windward_Sunrise-00:15.jpg "Another Windward Sunrise (00:15)")
+
+### [Antelope Canyon](https://youtu.be/t82H3YIgVPs)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 22:54
+* Video Resolution: 1280x720
+![Antelope Canyon](screenshots/Antelope_Canyon-00:15.jpg "Antelope Canyon (00:15)")
+
 ### [A Demonstration of Darktable Masks | Darktable Tutorial #07](https://youtu.be/SKknBy5lX7I)
 * Author: [Riley Brandt](https://www.youtube.com/channel/UCt6U6IJ2myOToBFeVL-EaXA) (https://www.rileybrandt.com/)
 * Video Length: 04:53
@@ -16,11 +53,30 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![A Demonstration of Darktable Masks | Darktable Tutorial #07](screenshots/A_Demonstration_of_Darktable_Masks_-_Darktable_Tutorial_07-00:28.jpg "A Demonstration of Darktable Masks | Darktable Tutorial #07 (00:28)")
 ![A Demonstration of Darktable Masks | Darktable Tutorial #07](screenshots/A_Demonstration_of_Darktable_Masks_-_Darktable_Tutorial_07-01:52.jpg "A Demonstration of Darktable Masks | Darktable Tutorial #07 (01:52)")
 
+
+### [Basic Stacking - Orion](https://youtu.be/_Yq60o5yQsg)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 22:11
+* Video Resolution: 1280x720
+![Basic Stacking - Orion](screenshots/Basic_Stacking_-_Orion-00:15.jpg "Basic Stacking - Orion (00:15)")
+
+### [Boiling Pots](https://youtu.be/iNu3wy-Fc84)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 31:57
+* Video Resolution: 1920x1080
+![Boiling Pots](screenshots/Boiling_Pots-00:27.jpg "Boiling Pots (00:27)")
+
 ### [Combining Drawn Masks](https://youtu.be/WpcPiL9A60c)
 * Author: [David LaCivita](https://www.youtube.com/channel/UC8ThgxLUpI1g7qns2akHC4g) (https://dlaciv12.tumblr.com/)
 * Video Length: 08:53
 * Video Resolution: 854x480
 ![Combining Drawn Masks](screenshots/Combining_Drawn_Masks-00:05.jpg "Combining Drawn Masks (00:05)")
+
+### [Compositing with Darktable](https://youtu.be/yPJrnoEgG5w)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 34:54
+* Video Resolution: 1920x1080
+![Compositing with Darktable](screenshots/Compositing_with_Darktable-00:25.jpg "Compositing with Darktable (00:25)")
 
 ### [Correcting for Under Exposure in Darktable](https://youtu.be/rggsIdSEyoE)
 * Author: [Kyle Clements](https://www.youtube.com/channel/UCNWnBhDVnHflg1if2G2s0Lw) (http://kyleclements.com/)
@@ -235,11 +291,24 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![Editing Glamour In Darktable](screenshots/Editing_Glamour_In_Darktable-00:10.jpg "Editing Glamour In Darktable (00:10)")
 ![Editing Glamour In Darktable](screenshots/Editing_Glamour_In_Darktable-04:30.jpg "Editing Glamour In Darktable (04:30)")
 
+### [Facebook 360 View](https://youtu.be/cLf__wx2-ms)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 14:29
+* Video Resolution: 1280x720
+![Facebook 360 View](screenshots/Facebook_360_View-00:15.jpg "Facebook 360 View (00:15)")
+
 ### [Fixing Red Eyes | Darktable](https://youtu.be/cmwc8QCH0wY)
 * Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
 * Video Length: 02:53
 * Video Resolution: 1920x1080
 ![Fixing Red Eyes | Darktable](screenshots/Fixing_Red_Eyes_-_Darktable-00:10.jpg "Fixing Red Eyes | Darktable (00:10)")
+
+### [Hamakua Waterfalls](https://youtu.be/DlUJio5E_60)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 01:36:40
+* Video Resolution: 1920x1080
+![Hamakua Waterfalls](screenshots/Hamakua_Waterfalls-02:50.jpg "Hamakua Waterfalls (02:50)")
+![Hamakua Waterfalls](screenshots/Hamakua_Waterfalls-54:40.jpg "Hamakua Waterfalls (54:40)")
 
 ### [How to Add Saturation in Darktable | Darktable Tutorial #04](https://youtu.be/K_882yX6dIU)
 * Author: [Riley Brandt](https://www.youtube.com/channel/UCt6U6IJ2myOToBFeVL-EaXA) (https://www.rileybrandt.com/)
@@ -269,6 +338,25 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 1920x1080
 ![Intro To Darktable Part Two](screenshots/Intro_To_Darktable_Part_Two-03:15.jpg "Intro To Darktable Part Two (03:15)")
 
+### [Lab Color Chart](https://youtu.be/dII4pX-ylIk)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 01:07:13
+* Video Resolution: 1920x1080
+![Lab Color Chart](screenshots/Lab_Color_Chart-06:00.jpg "Lab Color Chart (06:00)")
+
+### [Let's Add Grain](https://youtu.be/GGiNhoc0WBg)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 38:28
+* Video Resolution: 1920x1080
+![Let's Add Grain](screenshots/Let's_Add_Grain-01:10.jpg "Let's Add Grain (01:10)")
+![Let's Add Grain](screenshots/Let's_Add_Grain-21:35.jpg "Let's Add Grain (21:35)")
+
+### [Lightning Storm](https://youtu.be/QbQA2P2EM1w)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 02:24:48
+* Video Resolution: 1920x1080
+![Lightning Storm](screenshots/Lightning_Storm-04:00.jpg "Lightning Storm (04:00)")
+
 ### [Lowpass, Highpass and how I use them](https://youtu.be/s0kjSvW93L0)
 * Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
 * Video Length: 45:49
@@ -277,6 +365,12 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![Lowpass, Highpass and how I use them](screenshots/Lowpass,_Highpass_and_how_I_use_them-04:40.jpg "Lowpass, Highpass and how I use them (04:40)")
 ![Lowpass, Highpass and how I use them](screenshots/Lowpass,_Highpass_and_how_I_use_them-09:25.jpg "Lowpass, Highpass and how I use them (09:25)")
 ![Lowpass, Highpass and how I use them](screenshots/Lowpass,_Highpass_and_how_I_use_them-20:50.jpg "Lowpass, Highpass and how I use them (20:50)")
+
+### [Lucky Shot](https://youtu.be/7KRS9IRlkUg)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 28:04
+* Video Resolution: 1920x1080
+![Lucky Shot](screenshots/Lucky_Shot-14:50.jpg "Lucky Shot (14:50)")
 
 ### [Making Lightroom Edits Using darktable](https://youtu.be/2RvOY7XoHWk)
 * Author: [David LaCivita](https://www.youtube.com/channel/UC8ThgxLUpI1g7qns2akHC4g) (https://dlaciv12.tumblr.com/)
@@ -312,6 +406,19 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![New Features in darktable 2.4](screenshots/New_Features_in_darktable_2.4-00:05.jpg "New Features in darktable 2.4 (00:05)")
 ![New Features in darktable 2.4](screenshots/New_Features_in_darktable_2.4-09:25.jpg "New Features in darktable 2.4 (09:25)")
 
+### [Now With Quicker Edits](https://youtu.be/Ox6uPIqCVzU)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 24:29
+* Video Resolution: 1920x1080
+![Now With Quicker Edits](screenshots/Now_With_Quicker_Edits-00:30.jpg "Now With Quicker Edits (00:30)")
+![Now With Quicker Edits](screenshots/Now_With_Quicker_Edits-17:20.jpg "Now With Quicker Edits (17:20)")
+
+### [Parametric Masks](https://youtu.be/x1RRaXbnixQ)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 56:22
+* Video Resolution: 1920x1080
+![Parametric Masks](screenshots/Parametric_Masks-21:10.jpg "Parametric Masks (21:10)")
+
 ### [Photo Editing Live Stream](https://youtu.be/TblcuWQZ--o)
 * Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
 * Video Length: 01:38:10
@@ -324,6 +431,61 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![Photo Editing Live Stream](screenshots/Photo_Editing_Live_Stream-50:35.jpg "Photo Editing Live Stream (50:35)")
 ![Photo Editing Live Stream](screenshots/Photo_Editing_Live_Stream-55:05.jpg "Photo Editing Live Stream (55:05)")
 
+### [Pineapples](https://youtu.be/w7a35lQYAyo)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 28:01
+* Video Resolution: 1920x1080
+![Pineapples](screenshots/Pineapples-00:15.jpg "Pineapples (00:15)")
+
+### [Red Hair](https://youtu.be/m0KLa4vs2ro)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 50:40
+* Video Resolution: 1920x1080
+![Red Hair](screenshots/Red_Hair-00:30.jpg "Red Hair (00:30)")
+
+### [Senja peninsula](https://youtu.be/CY3Zgty2rt0)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 25:09
+* Video Resolution: 1920x1080
+![Senja peninsula](screenshots/Senja_peninsula-00:15.jpg "Senja peninsula (00:15)")
+![Senja peninsula](screenshots/Senja_peninsula-23:45.jpg "Senja peninsula (23:45)")
+
+### [Shot of the Year 2016](https://youtu.be/MxPge-gjCeo)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 01:00:48
+* Video Resolution: 1920x1080
+![Shot of the Year 2016](screenshots/Shot_of_the_Year_2016-01:00.jpg "Shot of the Year 2016 (01:00)")
+
+### [Stacking by Hand](https://youtu.be/dfy57vynOQU)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 01:00:21
+* Video Resolution: 1920x1080
+![Stacking by Hand](screenshots/Stacking_by_Hand-01:20.jpg "Stacking by Hand (01:20)")
+![Stacking by Hand](screenshots/Stacking_by_Hand-26:00.jpg "Stacking by Hand (26:00)")
+
+### [Story Telling with Panoramas](https://youtu.be/u1c9640ddK4)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 01:06:58
+* Video Resolution: 1920x1080
+![Story Telling with Panoramas](screenshots/Story_Telling_with_Panoramas-04:20.jpg "Story Telling with Panoramas (04:20)")
+![Story Telling with Panoramas](screenshots/Story_Telling_with_Panoramas-11:50.jpg "Story Telling with Panoramas (11:50)")
+![Story Telling with Panoramas](screenshots/Story_Telling_with_Panoramas-20:05.jpg "Story Telling with Panoramas (20:05)")
+![Story Telling with Panoramas](screenshots/Story_Telling_with_Panoramas-30:00.jpg "Story Telling with Panoramas (30:00)")
+![Story Telling with Panoramas](screenshots/Story_Telling_with_Panoramas-47:20.jpg "Story Telling with Panoramas (47:20)")
+
+### [Sunrise Bracket](https://youtu.be/5EfFZ-2YddU)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 34:54
+* Video Resolution: 1920x1080
+![Sunrise Bracket](screenshots/Sunrise_Bracket-00:25.jpg "Sunrise Bracket (00:25)")
+
+### [Supermoon](https://youtu.be/JQtpQw5eevM)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 41:54
+* Video Resolution: 1920x1080
+![Supermoon](screenshots/Supermoon-00:50.jpg "Supermoon (00:50)")
+![Supermoon](screenshots/Supermoon-32:20.jpg "Supermoon (32:20)")
+
 ### [The best $75 you can spend to improve your studio photography skills](https://youtu.be/xFJr0cajWLU)
 * Author: [blur.bz](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
 * Video Length: 37:42
@@ -331,6 +493,19 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![The best $75 you can spend to improve your studio photography skills](screenshots/The_best_$75_you_can_spend_to_improve_your_studio_photography_skills-16:25.jpg "The best $75 you can spend to improve your studio photography skills (16:25)")
 ![The best $75 you can spend to improve your studio photography skills](screenshots/The_best_$75_you_can_spend_to_improve_your_studio_photography_skills-20:00.jpg "The best $75 you can spend to improve your studio photography skills (20:00)")
 ![The best $75 you can spend to improve your studio photography skills](screenshots/The_best_$75_you_can_spend_to_improve_your_studio_photography_skills-22:50.jpg "The best $75 you can spend to improve your studio photography skills (22:50)")
+
+### [Thinking Differently](https://youtu.be/9zgTvU-kscw)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 51:12
+* Video Resolution: 1920x1080
+![Thinking Differently](screenshots/Thinking_Differently-01:45.jpg "Thinking Differently (01:45)")
+![Thinking Differently](screenshots/Thinking_Differently-32:05.jpg "Thinking Differently (32:05)")
+
+### [Timelapse Bash Script](https://youtu.be/SbBsu81kLgM)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 32:47
+* Video Resolution: 1920x1080
+![Timelapse Bash Script](screenshots/Timelapse_Bash_Script-06:15.jpg "Timelapse Bash Script (06:15)")
 
 ### [Using Blending Modes to Make Adjustments More Precise in Darktable](https://youtu.be/S-PH0jeQCXE)
 * Author: [Kyle Clements](https://www.youtube.com/channel/UCNWnBhDVnHflg1if2G2s0Lw) (http://kyleclements.com/)
