@@ -7,6 +7,13 @@ before_script:
   - gem install awesome_bot
 
 script:
+  # Getting the URLs ftom title which should be unique for sure
   - grep ^### README.md > README.md-unique_urls
   - awesome_bot --allow-redirect README.md-unique_urls
+
+  # Checking the duplicate Video Length values which should unlikely be the same (except 04:21)
+  - export DUPLICATE_VIDEO_LENGTH=`grep '* Video Length:' README.md | grep -v '04:21' | sort | uniq -d`
+  - test -n ${DUPLICATE_VIDEO_LENGTH} && echo ${DUPLICATE_VIDEO_LENGTH} && exit 1
+
+  # Checking all URLs
   - awesome_bot --allow-dupe --allow-redirect README.md

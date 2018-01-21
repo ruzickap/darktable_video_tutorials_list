@@ -11,7 +11,7 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 
 ### [A Demonstration of Darktable Masks | Darktable Tutorial #07](https://youtu.be/SKknBy5lX7I)
 * Author: [Riley Brandt](https://www.youtube.com/channel/UCt6U6IJ2myOToBFeVL-EaXA) (https://www.rileybrandt.com/)
-* Video Length: 04:54
+* Video Length: 04:52
 * Video Resolution: 2560x1440
 ![A Demonstration of Darktable Masks | Darktable Tutorial #07](screenshots/A_Demonstration_of_Darktable_Masks_-_Darktable_Tutorial_07-00:28.jpg "A Demonstration of Darktable Masks | Darktable Tutorial #07 (00:28)")
 ![A Demonstration of Darktable Masks | Darktable Tutorial #07](screenshots/A_Demonstration_of_Darktable_Masks_-_Darktable_Tutorial_07-01:52.jpg "A Demonstration of Darktable Masks | Darktable Tutorial #07 (01:52)")
@@ -198,7 +198,7 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 
 ### [Using Drawn Masks in Darktable to Sharpen Select Areas.](https://youtu.be/IhMR88Jt6nk)
 * Author: [Kyle Clements](https://www.youtube.com/channel/UCNWnBhDVnHflg1if2G2s0Lw) (http://kyleclements.com/)
-* Video Length: 03:24
+* Video Length: 03:58
 * Video Resolution: 2560x1440
 ![Using Drawn Masks in Darktable to Sharpen Select Areas.](screenshots/Using_Drawn_Masks_in_Darktable_to_Sharpen_Select_Areas.-00:15.jpg "Using Drawn Masks in Darktable to Sharpen Select Areas. (00:15)")
 
