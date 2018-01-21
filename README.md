@@ -28,6 +28,38 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 1920x1080
 ![Correcting for Under Exposure in Darktable](screenshots/Correcting_for_Under_Exposure_in_Darktable-00:10.jpg "Correcting for Under Exposure in Darktable (00:10)")
 
+### [Darktable 1.6](https://youtu.be/gFq5cnxwBiA)
+* Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
+* Video Length: 07:08
+* Video Resolution: 1920x1080
+![Darktable 1.6](screenshots/Darktable_1.6-00:10.jpg "Darktable 1.6 (00:10)")
+![Darktable 1.6](screenshots/Darktable_1.6-04:35.jpg "Darktable 1.6 (04:35)")
+
+### [Darktable 1.7 The Futer Release](https://youtu.be/LKJQU56i9wQ)
+* Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
+* Video Length: 13:23
+* Video Resolution: 1920x1080
+![Darktable 1.7 The Futer Release](screenshots/Darktable_1.7_The_Futer_Release-04:05.jpg "Darktable 1.7 The Futer Release (04:05)")
+![Darktable 1.7 The Futer Release](screenshots/Darktable_1.7_The_Futer_Release-09:15.jpg "Darktable 1.7 The Futer Release (09:15)")
+
+### [Darktable 2.0](https://youtu.be/EFi2HaxqeiI)
+* Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
+* Video Length: 13:35
+* Video Resolution: 1920x1080
+![Darktable 2.0](screenshots/Darktable_2.0-08:25.jpg "Darktable 2.0 (08:25)")
+
+### [Darktable 2.4 Review](https://youtu.be/pdiDTDXTLLc)
+* Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
+* Video Length: 09:50
+* Video Resolution: 3840x2160
+![Darktable 2.4 Review](screenshots/Darktable_2.4_Review-00:30.jpg "Darktable 2.4 Review (00:30)")
+
+### [Darktable edit part 1](https://youtu.be/DiZlySTcXAw)
+* Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
+* Video Length: 01:58
+* Video Resolution: 1920x1080
+![Darktable edit part 1](screenshots/Darktable_edit_part_1-00:20.jpg "Darktable edit part 1 (00:20)")
+
 ### [Darktable Edit Tutorial. Funky 70s look with current commercial trend feel](https://youtu.be/_aY7LtkovK4)
 * Author: [blur.bz](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
 * Video Length: 13:42
@@ -87,6 +119,25 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 1280x720
 ![Darktable Noise Removal | Darktable Quick Tips](screenshots/Darktable_Noise_Removal_-_Darktable_Quick_Tips-00:15.jpg "Darktable Noise Removal | Darktable Quick Tips (00:15)")
 
+### [Darktable Parametric Masks](https://youtu.be/V8AJp94IBOk)
+* Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
+* Video Length: 12:10
+* Video Resolution: 1920x1080
+![Darktable Parametric Masks](screenshots/Darktable_Parametric_Masks-00:10.jpg "Darktable Parametric Masks (00:10)")
+
+### [Darktable Raw edit | Studio Shoot](https://youtu.be/vsuNN6uKuQI)
+* Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
+* Video Length: 08:51
+* Video Resolution: 1920x1080
+![Darktable Raw edit | Studio Shoot](screenshots/Darktable_Raw_edit_-_Studio_Shoot-00:10.jpg "Darktable Raw edit | Studio Shoot (00:10)")
+
+### [Darktable Styles Presets](https://youtu.be/1J5Mk_zZ7U0)
+* Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
+* Video Length: 15:47
+* Video Resolution: 1920x1080
+![Darktable Styles Presets](screenshots/Darktable_Styles_Presets-04:01.jpg "Darktable Styles Presets (04:01)")
+![Darktable Styles Presets](screenshots/Darktable_Styles_Presets-05:45.jpg "Darktable Styles Presets (05:45)")
+
 ### [Darktable Tutorial :: How to fake fall colors](https://youtu.be/r-nYkDAkVmU)
 * Author: [blur.bz](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
 * Video Length: 04:22
@@ -106,6 +157,12 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 3840x2160
 ![Darktable - Change the season of a landscape](screenshots/Darktable_-_Change_the_season_of_a_landscape-00:20.jpg "Darktable - Change the season of a landscape (00:20)")
 
+### [Darktable | As A Gimp Plugin](https://youtu.be/kCZ_KRIZ1n0)
+* Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
+* Video Length: 05:17
+* Video Resolution: 1920x1080
+![Darktable | As A Gimp Plugin](screenshots/Darktable_-_As_A_Gimp_Plugin-01:05.jpg "Darktable | As A Gimp Plugin (01:05)")
+
 ### [Darktable: Getting the Hollywood Blockbuster Look](https://youtu.be/rgNU4ZtfzEs)
 * Author: [Kyle Clements](https://www.youtube.com/channel/UCNWnBhDVnHflg1if2G2s0Lw) (http://kyleclements.com/)
 * Video Length: 05:48
@@ -124,6 +181,12 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 1920x1080
 ![Editing Glamour In Darktable](screenshots/Editing_Glamour_In_Darktable-00:10.jpg "Editing Glamour In Darktable (00:10)")
 ![Editing Glamour In Darktable](screenshots/Editing_Glamour_In_Darktable-04:30.jpg "Editing Glamour In Darktable (04:30)")
+
+### [Fixing Red Eyes | Darktable](https://youtu.be/cmwc8QCH0wY)
+* Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
+* Video Length: 02:53
+* Video Resolution: 1920x1080
+![Fixing Red Eyes | Darktable](screenshots/Fixing_Red_Eyes_-_Darktable-00:10.jpg "Fixing Red Eyes | Darktable (00:10)")
 
 ### [How to Add Saturation in Darktable | Darktable Tutorial #04](https://youtu.be/K_882yX6dIU)
 * Author: [Riley Brandt](https://www.youtube.com/channel/UCt6U6IJ2myOToBFeVL-EaXA) (https://www.rileybrandt.com/)
@@ -146,6 +209,12 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Length: 04:54
 * Video Resolution: 2560x1440
 ![How to Quickly Edit a Photo in Darktable | Darktable Tutorial #08](screenshots/How_to_Quickly_Edit_a_Photo_in_Darktable_-_Darktable_Tutorial_08-00:20.jpg "How to Quickly Edit a Photo in Darktable | Darktable Tutorial #08 (00:20)")
+
+### [Intro To Darktable Part Two](https://youtu.be/fU4ohoSdY1Q)
+* Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
+* Video Length: 12:21
+* Video Resolution: 1920x1080
+![Intro To Darktable Part Two](screenshots/Intro_To_Darktable_Part_Two-03:15.jpg "Intro To Darktable Part Two (03:15)")
 
 ### [Lowpass, Highpass and how I use them](https://youtu.be/s0kjSvW93L0)
 * Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
@@ -189,6 +258,18 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 1280x720
 ![New Features in darktable 2.4](screenshots/New_Features_in_darktable_2.4-00:05.jpg "New Features in darktable 2.4 (00:05)")
 ![New Features in darktable 2.4](screenshots/New_Features_in_darktable_2.4-09:25.jpg "New Features in darktable 2.4 (09:25)")
+
+### [Photo Editing Live Stream](https://youtu.be/TblcuWQZ--o)
+* Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
+* Video Length: 01:38:10
+* Video Resolution: 1920x1080
+![Photo Editing Live Stream](screenshots/Photo_Editing_Live_Stream-01:03:25.jpg "Photo Editing Live Stream (01:03:25)")
+![Photo Editing Live Stream](screenshots/Photo_Editing_Live_Stream-08:05.jpg "Photo Editing Live Stream (08:05)")
+![Photo Editing Live Stream](screenshots/Photo_Editing_Live_Stream-01:09:40.jpg "Photo Editing Live Stream (01:09:40)")
+![Photo Editing Live Stream](screenshots/Photo_Editing_Live_Stream-11:40.jpg "Photo Editing Live Stream (11:40)")
+![Photo Editing Live Stream](screenshots/Photo_Editing_Live_Stream-47:55.jpg "Photo Editing Live Stream (47:55)")
+![Photo Editing Live Stream](screenshots/Photo_Editing_Live_Stream-50:35.jpg "Photo Editing Live Stream (50:35)")
+![Photo Editing Live Stream](screenshots/Photo_Editing_Live_Stream-55:05.jpg "Photo Editing Live Stream (55:05)")
 
 ### [Using Blending Modes to Make Adjustments More Precise in Darktable](https://youtu.be/S-PH0jeQCXE)
 * Author: [Kyle Clements](https://www.youtube.com/channel/UCNWnBhDVnHflg1if2G2s0Lw) (http://kyleclements.com/)
