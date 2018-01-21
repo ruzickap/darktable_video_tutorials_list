@@ -25,7 +25,7 @@ rm $TEMP_FILE
 
 cat >> $OUTPUT_FILE << EOF
 ### [${YOUTUBE_VIDEO_NAME}](https://youtu.be/${YOUTUBE_VIDEO_ID})
-* Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
+* Author: [blur.bz](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
 * Video Length: ${YOUTUBE_VIDEO_LENGTH}
 * Video Resolution: ${YOUTUBE_VIDEO_RESOLUTION}
 EOF

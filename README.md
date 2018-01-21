@@ -138,11 +138,44 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![Darktable Styles Presets](screenshots/Darktable_Styles_Presets-04:01.jpg "Darktable Styles Presets (04:01)")
 ![Darktable Styles Presets](screenshots/Darktable_Styles_Presets-05:45.jpg "Darktable Styles Presets (05:45)")
 
+### [Darktable through to GIMP Edit Tutorial - Beauty Shot](https://youtu.be/1IqXIjj4erk)
+* Author: [blur.bz](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Video Length: 25:07
+* Video Resolution: 2560x1440
+![Darktable through to GIMP Edit Tutorial - Beauty Shot](screenshots/Darktable_through_to_GIMP_Edit_Tutorial_-_Beauty_Shot-00:10.jpg "Darktable through to GIMP Edit Tutorial - Beauty Shot (00:10)")
+
+### [Darktable Tutorial - Killer Black and White images B&W](https://youtu.be/GWGNuHBi8ME)
+* Author: [blur.bz](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Video Length: 57:30
+* Video Resolution: 1920x1080
+![Darktable Tutorial - Killer Black and White images B&W](screenshots/Darktable_Tutorial_-_Killer_Black_and_White_images_B&W-08:40.jpg "Darktable Tutorial - Killer Black and White images B&W (08:40)")
+![Darktable Tutorial - Killer Black and White images B&W](screenshots/Darktable_Tutorial_-_Killer_Black_and_White_images_B&W-29:55.jpg "Darktable Tutorial - Killer Black and White images B&W (29:55)")
+![Darktable Tutorial - Killer Black and White images B&W](screenshots/Darktable_Tutorial_-_Killer_Black_and_White_images_B&W-37:40.jpg "Darktable Tutorial - Killer Black and White images B&W (37:40)")
+![Darktable Tutorial - Killer Black and White images B&W](screenshots/Darktable_Tutorial_-_Killer_Black_and_White_images_B&W-51:50.jpg "Darktable Tutorial - Killer Black and White images B&W (51:50)")
+
 ### [Darktable Tutorial :: How to fake fall colors](https://youtu.be/r-nYkDAkVmU)
 * Author: [blur.bz](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
 * Video Length: 04:22
 * Video Resolution: 2560x1440
 ![Darktable Tutorial :: How to fake fall colors](screenshots/Darktable_Tutorial_::_-_How_to_fake_fall_colors-00:45.jpg "Darktable Tutorial :: How to fake fall colors (00:45)")
+
+### [Darktable Workflow and Editing Tutorial - Ubuntu - Linux - Photography](https://youtu.be/LMhdhzHx9Y8)
+* Author: [blur.bz](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Video Length: 01:31:13
+* Video Resolution: 2560x1440
+![Darktable Workflow and Editing Tutorial - Ubuntu - Linux - Photography](screenshots/Darktable_Workflow_and_Editing_Tutorial_-_Ubuntu_-_Linux_-_Photography-09:55.jpg "Darktable Workflow and Editing Tutorial - Ubuntu - Linux - Photography (09:55)")
+![Darktable Workflow and Editing Tutorial - Ubuntu - Linux - Photography](screenshots/Darktable_Workflow_and_Editing_Tutorial_-_Ubuntu_-_Linux_-_Photography-24:45.jpg "Darktable Workflow and Editing Tutorial - Ubuntu - Linux - Photography (24:45)")
+![Darktable Workflow and Editing Tutorial - Ubuntu - Linux - Photography](screenshots/Darktable_Workflow_and_Editing_Tutorial_-_Ubuntu_-_Linux_-_Photography-46:55.jpg "Darktable Workflow and Editing Tutorial - Ubuntu - Linux - Photography (46:55)")
+![Darktable Workflow and Editing Tutorial - Ubuntu - Linux - Photography](screenshots/Darktable_Workflow_and_Editing_Tutorial_-_Ubuntu_-_Linux_-_Photography-54:50.jpg "Darktable Workflow and Editing Tutorial - Ubuntu - Linux - Photography (54:50)")
+![Darktable Workflow and Editing Tutorial - Ubuntu - Linux - Photography](screenshots/Darktable_Workflow_and_Editing_Tutorial_-_Ubuntu_-_Linux_-_Photography-01:06:00.jpg "Darktable Workflow and Editing Tutorial - Ubuntu - Linux - Photography (01:06:00)")
+![Darktable Workflow and Editing Tutorial - Ubuntu - Linux - Photography](screenshots/Darktable_Workflow_and_Editing_Tutorial_-_Ubuntu_-_Linux_-_Photography-01:18:25.jpg "Darktable Workflow and Editing Tutorial - Ubuntu - Linux - Photography (01:18:25)")
+![Darktable Workflow and Editing Tutorial - Ubuntu - Linux - Photography](screenshots/Darktable_Workflow_and_Editing_Tutorial_-_Ubuntu_-_Linux_-_Photography-01:22:55.jpg "Darktable Workflow and Editing Tutorial - Ubuntu - Linux - Photography (01:22:55)")
+
+### [Darktable & Gimp workflow edit of a studio taken photo on Ubuntu](https://youtu.be/7Htvj0cFMRc)
+* Author: [blur.bz](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Video Length: 31:52
+* Video Resolution: 1280x720
+![Darktable & Gimp workflow edit of a studio taken photo on Ubuntu](screenshots/Darktable_&_Gimp_workflow_edit_of_a_studio_taken_photo_on_Ubuntu-02:35.jpg "Darktable & Gimp workflow edit of a studio taken photo on Ubuntu (02:35)")
 
 ### [Darktable - 3 different ways to create Black and White](https://youtu.be/bE2cpBzYcJo)
 * Author: [Julien Pons](https://www.youtube.com/channel/UCqRhZuyq7Rmz2bhxgPbu6-A) (https://www.julienpons.com/)
@@ -156,6 +189,26 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Length: 06:08
 * Video Resolution: 3840x2160
 ![Darktable - Change the season of a landscape](screenshots/Darktable_-_Change_the_season_of_a_landscape-00:20.jpg "Darktable - Change the season of a landscape (00:20)")
+
+### [Darktable - Denoise options strategies and thoughts](https://youtu.be/rpKakcBVqz4)
+* Author: [blur.bz](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Video Length: 24:27
+* Video Resolution: 1920x1080
+![Darktable - Denoise options strategies and thoughts](screenshots/Darktable_-_Denoise_options_strategies_and_thoughts-01:30.jpg "Darktable - Denoise options strategies and thoughts (01:30)")
+![Darktable - Denoise options strategies and thoughts](screenshots/Darktable_-_Denoise_options_strategies_and_thoughts-12:50.jpg "Darktable - Denoise options strategies and thoughts (12:50)")
+
+### [Darktable - Workflow - Selecting and bulk processing similar pictures.](https://youtu.be/7pZgz4TbzQY)
+* Author: [blur.bz](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Video Length: 27:31
+* Video Resolution: 1280x720
+![Darktable - Workflow - Selecting and bulk processing similar pictures.](screenshots/Darktable_-_Workflow_-_Selecting_and_bulk_processing_similar_pictures.-10:40.jpg "Darktable - Workflow - Selecting and bulk processing similar pictures. (10:40)")
+![Darktable - Workflow - Selecting and bulk processing similar pictures.](screenshots/Darktable_-_Workflow_-_Selecting_and_bulk_processing_similar_pictures.-20:15.jpg "Darktable - Workflow - Selecting and bulk processing similar pictures. (20:15)")
+
+### [Darktable :: Skin tone color and texture](https://youtu.be/Cdr2z5ITNb8)
+* Author: [blur.bz](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Video Length: 21:03
+* Video Resolution: 2560x1440
+![Darktable :: Skin tone color and texture](screenshots/Darktable_::_Skin_tone_color_and_texture-03:40.jpg "Darktable :: Skin tone color and texture (03:40)")
 
 ### [Darktable | As A Gimp Plugin](https://youtu.be/kCZ_KRIZ1n0)
 * Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
@@ -270,6 +323,14 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![Photo Editing Live Stream](screenshots/Photo_Editing_Live_Stream-47:55.jpg "Photo Editing Live Stream (47:55)")
 ![Photo Editing Live Stream](screenshots/Photo_Editing_Live_Stream-50:35.jpg "Photo Editing Live Stream (50:35)")
 ![Photo Editing Live Stream](screenshots/Photo_Editing_Live_Stream-55:05.jpg "Photo Editing Live Stream (55:05)")
+
+### [The best $75 you can spend to improve your studio photography skills](https://youtu.be/xFJr0cajWLU)
+* Author: [blur.bz](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Video Length: 37:42
+* Video Resolution: 1280x720
+![The best $75 you can spend to improve your studio photography skills](screenshots/The_best_$75_you_can_spend_to_improve_your_studio_photography_skills-16:25.jpg "The best $75 you can spend to improve your studio photography skills (16:25)")
+![The best $75 you can spend to improve your studio photography skills](screenshots/The_best_$75_you_can_spend_to_improve_your_studio_photography_skills-20:00.jpg "The best $75 you can spend to improve your studio photography skills (20:00)")
+![The best $75 you can spend to improve your studio photography skills](screenshots/The_best_$75_you_can_spend_to_improve_your_studio_photography_skills-22:50.jpg "The best $75 you can spend to improve your studio photography skills (22:50)")
 
 ### [Using Blending Modes to Make Adjustments More Precise in Darktable](https://youtu.be/S-PH0jeQCXE)
 * Author: [Kyle Clements](https://www.youtube.com/channel/UCNWnBhDVnHflg1if2G2s0Lw) (http://kyleclements.com/)

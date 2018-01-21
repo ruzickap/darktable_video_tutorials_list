@@ -22,3 +22,6 @@ script:
   - grep "^###" README.md > /tmp/tutorials
   - grep "^###" README.md | sort --ignore-case --version-sort > /tmp/sorted_tutorials
   - if sdiff /tmp/tutorials /tmp/sorted_tutorials; then echo -e "\n*** Test OK"; else echo -e "\n*** Tutorials are not properly sorted!"; exit 1; fi
+
+  # Check if the all screenshots are mentioned in main README file
+  - for FILE in screenshots/*; do grep "$FILE" README.md; done
