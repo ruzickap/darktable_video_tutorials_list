@@ -28,18 +28,12 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 1920x1080
 ![Correcting for Under Exposure in Darktable](screenshots/Correcting_for_Under_Exposure_in_Darktable-00:10.jpg "Correcting for Under Exposure in Darktable (00:10)")
 
-### [Darktable - 3 different ways to create Black and White](https://youtu.be/bE2cpBzYcJo)
-* Author: [Julien Pons](https://www.youtube.com/channel/UCqRhZuyq7Rmz2bhxgPbu6-A) (https://www.julienpons.com/)
-* Video Length: 09:00
-* Video Resolution: 1920x1080
-![Darktable - 3 different ways to create Black and White](screenshots/Darktable_-_3_different_ways_to_create_Black_and_White-00:50.jpg "Darktable - 3 different ways to create Black and White (00:50)")
-![Darktable - 3 different ways to create Black and White](screenshots/Darktable_-_3_different_ways_to_create_Black_and_White-05:00.jpg "Darktable - 3 different ways to create Black and White (05:00)")
-
-### [Darktable - Change the season of a landscape](https://youtu.be/ovga64y8ysY)
-* Author: [Julien Pons](https://www.youtube.com/channel/UCqRhZuyq7Rmz2bhxgPbu6-A) (https://www.julienpons.com/)
-* Video Length: 06:08
-* Video Resolution: 3840x2160
-![Darktable - Change the season of a landscape](screenshots/Darktable_-_Change_the_season_of_a_landscape-00:20.jpg "Darktable - Change the season of a landscape (00:20)")
+### [Darktable Edit Tutorial. Funky 70s look with current commercial trend feel](https://youtu.be/_aY7LtkovK4)
+* Author: [blur.bz](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Video Length: 13:42
+* Video Resolution: 2560x1440
+![Darktable Edit Tutorial. Funky 70s look with current commercial trend feel](screenshots/Darktable_Edit_Tutorial._Funky_70s_look_with_current_commercial_trend_feel-04:35.jpg "Darktable Edit Tutorial. Funky 70s look with current commercial trend feel (04:35)")
+![Darktable Edit Tutorial. Funky 70s look with current commercial trend feel](screenshots/Darktable_Edit_Tutorial._Funky_70s_look_with_current_commercial_trend_feel-11:38.jpg "Darktable Edit Tutorial. Funky 70s look with current commercial trend feel (11:38)")
 
 ### [Darktable Edit #1 - Sunset on Mauna Kea](https://youtu.be/0nUVNDxXhIA)
 * Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
@@ -87,13 +81,6 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 1920x1080
 ![Darktable edit #7 - Milky Way and Palm Trees](screenshots/Darktable_edit_7_-_Milky_Way_and_Palm_Trees-00:05.jpg "Darktable edit #7 - Milky Way and Palm Trees (00:05)")
 
-### [Darktable Edit Tutorial. Funky 70s look with current commercial trend feel](https://youtu.be/_aY7LtkovK4)
-* Author: [blur.bz](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
-* Video Length: 13:42
-* Video Resolution: 2560x1440
-![Darktable Edit Tutorial. Funky 70s look with current commercial trend feel](screenshots/Darktable_Edit_Tutorial._Funky_70s_look_with_current_commercial_trend_feel-04:35.jpg "Darktable Edit Tutorial. Funky 70s look with current commercial trend feel (04:35)")
-![Darktable Edit Tutorial. Funky 70s look with current commercial trend feel](screenshots/Darktable_Edit_Tutorial._Funky_70s_look_with_current_commercial_trend_feel-11:38.jpg "Darktable Edit Tutorial. Funky 70s look with current commercial trend feel (11:38)")
-
 ### [Darktable Noise Removal | Darktable Quick Tips](https://youtu.be/YJ4W60VeJ0I)
 * Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
 * Video Length: 04:43
@@ -105,6 +92,19 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Length: 04:21
 * Video Resolution: 2560x1440
 ![Darktable Tutorial :: How to fake fall colors](screenshots/Darktable_Tutorial_::_-_How_to_fake_fall_colors-00:45.jpg "Darktable Tutorial :: How to fake fall colors (00:45)")
+
+### [Darktable - 3 different ways to create Black and White](https://youtu.be/bE2cpBzYcJo)
+* Author: [Julien Pons](https://www.youtube.com/channel/UCqRhZuyq7Rmz2bhxgPbu6-A) (https://www.julienpons.com/)
+* Video Length: 09:00
+* Video Resolution: 1920x1080
+![Darktable - 3 different ways to create Black and White](screenshots/Darktable_-_3_different_ways_to_create_Black_and_White-00:50.jpg "Darktable - 3 different ways to create Black and White (00:50)")
+![Darktable - 3 different ways to create Black and White](screenshots/Darktable_-_3_different_ways_to_create_Black_and_White-05:00.jpg "Darktable - 3 different ways to create Black and White (05:00)")
+
+### [Darktable - Change the season of a landscape](https://youtu.be/ovga64y8ysY)
+* Author: [Julien Pons](https://www.youtube.com/channel/UCqRhZuyq7Rmz2bhxgPbu6-A) (https://www.julienpons.com/)
+* Video Length: 06:08
+* Video Resolution: 3840x2160
+![Darktable - Change the season of a landscape](screenshots/Darktable_-_Change_the_season_of_a_landscape-00:20.jpg "Darktable - Change the season of a landscape (00:20)")
 
 ### [Darktable: Getting the Hollywood Blockbuster Look](https://youtu.be/rgNU4ZtfzEs)
 * Author: [Kyle Clements](https://www.youtube.com/channel/UCNWnBhDVnHflg1if2G2s0Lw) (http://kyleclements.com/)
@@ -133,12 +133,6 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![How to Add Saturation in Darktable | Darktable Tutorial #04](screenshots/How_to_Add_Saturation_in_Darktable_-_Darktable_Tutorial_04-02:45.jpg "How to Add Saturation in Darktable | Darktable Tutorial #04 (02:45)")
 ![How to Add Saturation in Darktable | Darktable Tutorial #04](screenshots/How_to_Add_Saturation_in_Darktable_-_Darktable_Tutorial_04-06:10.jpg "How to Add Saturation in Darktable | Darktable Tutorial #04 (06:10)")
 
-### [How to Quickly Edit a Photo in Darktable | Darktable Tutorial #08](https://youtu.be/z9cjx5rZyIA)
-* Author: [Riley Brandt](https://www.youtube.com/channel/UCt6U6IJ2myOToBFeVL-EaXA) (https://www.rileybrandt.com/)
-* Video Length: 04:54
-* Video Resolution: 2560x1440
-![How to Quickly Edit a Photo in Darktable | Darktable Tutorial #08](screenshots/How_to_Quickly_Edit_a_Photo_in_Darktable_-_Darktable_Tutorial_08-00:20.jpg "How to Quickly Edit a Photo in Darktable | Darktable Tutorial #08 (00:20)")
-
 ### [How to Fix Color Fringing | Darktable Tutorial #06](https://youtu.be/cruud_MEr_U)
 * Author: [Riley Brandt](https://www.youtube.com/channel/UCt6U6IJ2myOToBFeVL-EaXA) (https://www.rileybrandt.com/)
 * Video Length: 06:16
@@ -146,6 +140,12 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![How to Fix Color Fringing | Darktable Tutorial #06](screenshots/How_to_Fix_Color_Fringing_-_Darktable_Tutorial_06-00:15.jpg "How to Fix Color Fringing | Darktable Tutorial #06 (00:15)")
 ![How to Fix Color Fringing | Darktable Tutorial #06](screenshots/How_to_Fix_Color_Fringing_-_Darktable_Tutorial_06-02:50.jpg "How to Fix Color Fringing | Darktable Tutorial #06 (02:50)")
 ![How to Fix Color Fringing | Darktable Tutorial #06](screenshots/How_to_Fix_Color_Fringing_-_Darktable_Tutorial_06-04:00.jpg "How to Fix Color Fringing | Darktable Tutorial #06 (04:00)")
+
+### [How to Quickly Edit a Photo in Darktable | Darktable Tutorial #08](https://youtu.be/z9cjx5rZyIA)
+* Author: [Riley Brandt](https://www.youtube.com/channel/UCt6U6IJ2myOToBFeVL-EaXA) (https://www.rileybrandt.com/)
+* Video Length: 04:54
+* Video Resolution: 2560x1440
+![How to Quickly Edit a Photo in Darktable | Darktable Tutorial #08](screenshots/How_to_Quickly_Edit_a_Photo_in_Darktable_-_Darktable_Tutorial_08-00:20.jpg "How to Quickly Edit a Photo in Darktable | Darktable Tutorial #08 (00:20)")
 
 ### [Lowpass, Highpass and how I use them](https://youtu.be/s0kjSvW93L0)
 * Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
