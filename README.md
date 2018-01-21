@@ -210,10 +210,10 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 
 
 
-### French
+## French
 
 
-### German
+## German
 
 
 # Darktable YouTube playlists:
