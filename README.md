@@ -169,6 +169,12 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 1920x1080
 ![Darktable edit #7 - Milky Way and Palm Trees](screenshots/Darktable_edit_7_-_Milky_Way_and_Palm_Trees-00:05.jpg "Darktable edit #7 - Milky Way and Palm Trees (00:05)")
 
+### [Darktable Intro](https://youtu.be/1IiwfHY0ls0)
+* Author: [Robert Hutton](https://www.youtube.com/channel/UCzzc6FwLfdgqdO2BPDc3eFw) (https://www.roberthutton.net)
+* Video Length: 19:37
+* Video Resolution: 1920x1080
+![Darktable Intro](screenshots/Darktable_Intro-08:35.jpg "Darktable Intro (08:35)")
+
 ### [Darktable Noise Removal | Darktable Quick Tips](https://youtu.be/YJ4W60VeJ0I)
 * Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
 * Video Length: 04:43
@@ -186,6 +192,42 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Length: 08:51
 * Video Resolution: 1920x1080
 ![Darktable Raw edit | Studio Shoot](screenshots/Darktable_Raw_edit_-_Studio_Shoot-00:10.jpg "Darktable Raw edit | Studio Shoot (00:10)")
+
+### [Darktable RAW edit: architectural perspective](https://youtu.be/oZRSCj0M414)
+* Author: [Robert Hutton](https://www.youtube.com/channel/UCzzc6FwLfdgqdO2BPDc3eFw) (https://www.roberthutton.net)
+* Video Length: 06:42
+* Video Resolution: 1920x1080
+![Darktable RAW edit: architectural perspective](screenshots/Darktable_RAW_edit:_architectural_perspective-00:10.jpg "Darktable RAW edit: architectural perspective (00:10)")
+
+### [Darktable RAW edit: butterfly](https://youtu.be/UsJ8ZdLkBjE)
+* Author: [Robert Hutton](https://www.youtube.com/channel/UCzzc6FwLfdgqdO2BPDc3eFw) (https://www.roberthutton.net)
+* Video Length: 22:37
+* Video Resolution: 1920x1080
+![Darktable RAW edit: butterfly](screenshots/Darktable_RAW_edit:_butterfly-06:40.jpg "Darktable RAW edit: butterfly (06:40)")
+
+### [Darktable RAW edit: Golden hair portrait (part 1)](https://youtu.be/JqybQL_IJ1U)
+* Author: [Robert Hutton](https://www.youtube.com/channel/UCzzc6FwLfdgqdO2BPDc3eFw) (https://www.roberthutton.net)
+* Video Length: 10:04
+* Video Resolution: 1920x1080
+![Darktable RAW edit: Golden hair portrait (part 1)](screenshots/Darktable_RAW_edit:_Golden_hair_portrait_(part_1)-00:15.jpg "Darktable RAW edit: Golden hair portrait (part 1) (00:15)")
+
+### [Darktable RAW edit: Lady in boots](https://youtu.be/no5AkmQ9ZC4)
+* Author: [Robert Hutton](https://www.youtube.com/channel/UCzzc6FwLfdgqdO2BPDc3eFw) (https://www.roberthutton.net)
+* Video Length: 13:48
+* Video Resolution: 1920x1080
+![Darktable RAW edit: Lady in boots](screenshots/Darktable_RAW_edit:_Lady_in_boots-01:00.jpg "Darktable RAW edit: Lady in boots (01:00)")
+
+### [Darktable RAW edit: Swiss mountains - dealing with high dynamic range](https://youtu.be/GVrSePtahJg)
+* Author: [Robert Hutton](https://www.youtube.com/channel/UCzzc6FwLfdgqdO2BPDc3eFw) (https://www.roberthutton.net)
+* Video Length: 17:16
+* Video Resolution: 1920x1080
+![Darktable RAW edit: Swiss mountains - dealing with high dynamic range](screenshots/Darktable_RAW_edit:_Swiss_mountains_-_dealing_with_high_dynamic_range-00:10.jpg "Darktable RAW edit: Swiss mountains - dealing with high dynamic range (00:10)")
+
+### [Darktable RAW edit: Water Lily](https://youtu.be/zSg3CYxwz_M)
+* Author: [Robert Hutton](https://www.youtube.com/channel/UCzzc6FwLfdgqdO2BPDc3eFw) (https://www.roberthutton.net)
+* Video Length: 19:00
+* Video Resolution: 1920x1080
+![Darktable RAW edit: Water Lily](screenshots/Darktable_RAW_edit:_Water_Lily-00:20.jpg "Darktable RAW edit: Water Lily (00:20)")
 
 ### [Darktable Styles Presets](https://youtu.be/1J5Mk_zZ7U0)
 * Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
@@ -214,6 +256,13 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Length: 04:22
 * Video Resolution: 2560x1440
 ![Darktable Tutorial :: How to fake fall colors](screenshots/Darktable_Tutorial_::_-_How_to_fake_fall_colors-00:45.jpg "Darktable Tutorial :: How to fake fall colors (00:45)")
+
+### [Darktable user request: backlit portraits](https://youtu.be/D5WK6r7uD4I)
+* Author: [Robert Hutton](https://www.youtube.com/channel/UCzzc6FwLfdgqdO2BPDc3eFw) (https://www.roberthutton.net)
+* Video Length: 08:24
+* Video Resolution: 1920x1080
+![Darktable user request: backlit portraits](screenshots/Darktable_user_request:_backlit_portraits-00:15.jpg "Darktable user request: backlit portraits (00:15)")
+![Darktable user request: backlit portraits](screenshots/Darktable_user_request:_backlit_portraits-04:50.jpg "Darktable user request: backlit portraits (04:50)")
 
 ### [Darktable Workflow and Editing Tutorial - Ubuntu - Linux - Photography](https://youtu.be/LMhdhzHx9Y8)
 * Author: [blur.bz](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
@@ -272,6 +321,18 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 1920x1080
 ![Darktable | As A Gimp Plugin](screenshots/Darktable_-_As_A_Gimp_Plugin-01:05.jpg "Darktable | As A Gimp Plugin (01:05)")
 
+### [Darktable: Drawn and parametric masks](https://youtu.be/xWF6Wk-JPb0)
+* Author: [Robert Hutton](https://www.youtube.com/channel/UCzzc6FwLfdgqdO2BPDc3eFw) (https://www.roberthutton.net)
+* Video Length: 15:05
+* Video Resolution: 1920x1080
+![Darktable: Drawn and parametric masks](screenshots/Darktable:_Drawn_and_parametric_masks-00:20.jpg "Darktable: Drawn and parametric masks (00:20)")
+
+### [Darktable: Equalizer module](https://youtu.be/zzVXK4eAM5E)
+* Author: [Robert Hutton](https://www.youtube.com/channel/UCzzc6FwLfdgqdO2BPDc3eFw) (https://www.roberthutton.net)
+* Video Length: 16:17
+* Video Resolution: 1920x1080
+![Darktable: Equalizer module](screenshots/Darktable:_Equalizer_module-00:00.jpg "Darktable: Equalizer module (00:00)")
+
 ### [Darktable: Getting the Hollywood Blockbuster Look](https://youtu.be/rgNU4ZtfzEs)
 * Author: [Kyle Clements](https://www.youtube.com/channel/UCNWnBhDVnHflg1if2G2s0Lw) (http://kyleclements.com/)
 * Video Length: 05:48
@@ -283,6 +344,12 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Length: 04:26
 * Video Resolution: 1920x1080
 ![Darktable: Making Images Pop](screenshots/Darktable_-_Making_Images_Pop-01:15.jpg "Darktable: Making Images Pop (01:15)")
+
+### [Darktable: noise reduction techniques (fixed video)](https://youtu.be/4nBzAeM0tpI)
+* Author: [Robert Hutton](https://www.youtube.com/channel/UCzzc6FwLfdgqdO2BPDc3eFw) (https://www.roberthutton.net)
+* Video Length: 36:07
+* Video Resolution: 1920x1080
+![Darktable: noise reduction techniques (fixed video)](screenshots/Darktable:_noise_reduction_techniques_(fixed_video)-06:10.jpg "Darktable: noise reduction techniques (fixed video) (06:10)")
 
 ### [Editing Glamour In Darktable](https://youtu.be/jiPVeUGBr5U)
 * Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)

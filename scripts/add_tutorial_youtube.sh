@@ -25,7 +25,7 @@ rm $TEMP_FILE
 
 cat >> $OUTPUT_FILE << EOF
 ### [${YOUTUBE_VIDEO_NAME}](https://youtu.be/${YOUTUBE_VIDEO_ID})
-* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Author: [Robert Hutton](https://www.youtube.com/channel/UCzzc6FwLfdgqdO2BPDc3eFw) (https://www.roberthutton.net)
 * Video Length: ${YOUTUBE_VIDEO_LENGTH}
 * Video Resolution: ${YOUTUBE_VIDEO_RESOLUTION}
 EOF
