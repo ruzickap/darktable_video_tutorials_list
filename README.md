@@ -181,6 +181,14 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 1280x720
 ![Darktable Noise Removal | Darktable Quick Tips](screenshots/Darktable_Noise_Removal_-_Darktable_Quick_Tips-00:15.jpg "Darktable Noise Removal | Darktable Quick Tips (00:15)")
 
+### [Darktable on Mac #002: Darkroom](https://youtu.be/BacDPtQiftQ)
+* Author: [Leander Hutton](https://www.youtube.com/channel/UCuiTH2ZgzEcCIjqmKieCdXw) (https://leanderhutton.com/)
+* Video Length: 43:12
+* Video Resolution: 1920x1080
+![Darktable on Mac #002: Darkroom](screenshots/Darktable_on_Mac_002:_Darkroom-00:10.jpg "Darktable on Mac #002: Darkroom (00:10)")
+![Darktable on Mac #002: Darkroom](screenshots/Darktable_on_Mac_002:_Darkroom-27:56.jpg "Darktable on Mac #002: Darkroom (27:56)")
+![Darktable on Mac #002: Darkroom](screenshots/Darktable_on_Mac_002:_Darkroom-33:45.jpg "Darktable on Mac #002: Darkroom (33:45)")
+
 ### [Darktable Parametric Masks](https://youtu.be/V8AJp94IBOk)
 * Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
 * Video Length: 12:10
@@ -357,6 +365,12 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 1920x1080
 ![Editing Glamour In Darktable](screenshots/Editing_Glamour_In_Darktable-00:10.jpg "Editing Glamour In Darktable (00:10)")
 ![Editing Glamour In Darktable](screenshots/Editing_Glamour_In_Darktable-04:30.jpg "Editing Glamour In Darktable (04:30)")
+
+### [Editing Lunar Photos in Darktable](https://youtu.be/Z_9g0vdSZ2k)
+* Author: [Leander Hutton](https://www.youtube.com/channel/UCuiTH2ZgzEcCIjqmKieCdXw) (https://leanderhutton.com/)
+* Video Length: 15:31
+* Video Resolution: 2560x1440
+![Editing Lunar Photos in Darktable](screenshots/Editing_Lunar_Photos_in_Darktable-00:05.jpg "Editing Lunar Photos in Darktable (00:05)")
 
 ### [Facebook 360 View](https://youtu.be/cLf__wx2-ms)
 * Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
