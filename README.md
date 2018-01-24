@@ -359,6 +359,12 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 1920x1080
 ![Darktable: noise reduction techniques (fixed video)](screenshots/Darktable:_noise_reduction_techniques_(fixed_video)-06:10.jpg "Darktable: noise reduction techniques (fixed video) (06:10)")
 
+### [Editing a high dynamic range photo in darktable](https://youtu.be/sIODKstaxf4)
+* Author: [David LaCivita](https://www.youtube.com/channel/UC8ThgxLUpI1g7qns2akHC4g) (https://dlaciv12.tumblr.com/)
+* Video Length: 16:00
+* Video Resolution: 854x480
+![Editing a high dynamic range photo in darktable](screenshots/Editing_a_high_dynamic_range_photo_in_darktable-00:45.jpg "Editing a high dynamic range photo in darktable (00:45)")
+
 ### [Editing Glamour In Darktable](https://youtu.be/jiPVeUGBr5U)
 * Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
 * Video Length: 08:25
