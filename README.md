@@ -372,6 +372,20 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![Editing Glamour In Darktable](screenshots/Editing_Glamour_In_Darktable-00:10.jpg "Editing Glamour In Darktable (00:10)")
 ![Editing Glamour In Darktable](screenshots/Editing_Glamour_In_Darktable-04:30.jpg "Editing Glamour In Darktable (04:30)")
 
+### [Editing Live Stream](https://youtu.be/3IzAfGIO210)
+* Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
+* Video Length: 01:18:27
+* Video Resolution: 3840x2160
+![Editing Live Stream](screenshots/Editing_Live_Stream-03:00.jpg "Editing Live Stream (03:00)")
+![Editing Live Stream](screenshots/Editing_Live_Stream-10:45.jpg "Editing Live Stream (10:45)")
+![Editing Live Stream](screenshots/Editing_Live_Stream-21:45.jpg "Editing Live Stream (21:45)")
+![Editing Live Stream](screenshots/Editing_Live_Stream-28:47.jpg "Editing Live Stream (28:47)")
+![Editing Live Stream](screenshots/Editing_Live_Stream-35:15.jpg "Editing Live Stream (35:15)")
+![Editing Live Stream](screenshots/Editing_Live_Stream-44:45.jpg "Editing Live Stream (44:45)")
+![Editing Live Stream](screenshots/Editing_Live_Stream-48:30.jpg "Editing Live Stream (48:30)")
+![Editing Live Stream](screenshots/Editing_Live_Stream-59:42.jpg "Editing Live Stream (59:42)")
+![Editing Live Stream](screenshots/Editing_Live_Stream-01:11:20.jpg "Editing Live Stream (01:11:20)")
+
 ### [Editing Lunar Photos in Darktable](https://youtu.be/Z_9g0vdSZ2k)
 * Author: [Leander Hutton](https://www.youtube.com/channel/UCuiTH2ZgzEcCIjqmKieCdXw) (https://leanderhutton.com/)
 * Video Length: 15:31
