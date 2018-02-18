@@ -404,6 +404,12 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 1920x1080
 ![Fixing Red Eyes | Darktable](screenshots/Fixing_Red_Eyes_-_Darktable-00:10.jpg "Fixing Red Eyes | Darktable (00:10)")
 
+### [Freshford](https://youtu.be/_nCWcwezLNc)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 20:35
+* Video Resolution: 1280x720
+![Freshford](screenshots/Freshford-00:15.jpg "Freshford (00:15)")
+
 ### [Hamakua Waterfalls](https://youtu.be/DlUJio5E_60)
 * Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
 * Video Length: 01:36:40
@@ -607,6 +613,12 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Length: 32:47
 * Video Resolution: 1920x1080
 ![Timelapse Bash Script](screenshots/Timelapse_Bash_Script-06:15.jpg "Timelapse Bash Script (06:15)")
+
+### [Tiny Planet](https://youtu.be/lJPjp0SmVaA)
+* Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
+* Video Length: 13:56
+* Video Resolution: 1280x720
+![Tiny Planet](screenshots/Tiny_Planet-09:50.jpg "Tiny Planet (09:50)")
 
 ### [Using Blending Modes to Make Adjustments More Precise in Darktable](https://youtu.be/S-PH0jeQCXE)
 * Author: [Kyle Clements](https://www.youtube.com/channel/UCNWnBhDVnHflg1if2G2s0Lw) (http://kyleclements.com/)
