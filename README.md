@@ -197,6 +197,12 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 1920x1080
 ![Darktable Parametric Masks](screenshots/Darktable_Parametric_Masks-00:10.jpg "Darktable Parametric Masks (00:10)")
 
+### [Darktable Quicky Tutorial - Same Image Ten Ways](https://youtu.be/gjC6PlJZB7E)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Video Length: 25:08
+* Video Resolution: 2560x1440
+![Darktable Quicky Tutorial - Same Image Ten Ways](screenshots/Darktable_Quicky_Tutorial_-_Same_Image_Ten_Ways-00:30.jpg "Darktable Quicky Tutorial - Same Image Ten Ways (00:30)")
+
 ### [Darktable Quicky :: Darktable Tutorial :: Street Photography Edit](https://youtu.be/QLJhj6TvGVY)
 * Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
 * Video Length: 20:43
@@ -632,6 +638,8 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
 * Video Length: 51:12
 * Video Resolution: 1920x1080
+* Modules: base curve, channel mixer, color zones, equalizer, exposure, highpass, lens correction, lowpass, shadows and highlights, tone curve
+* Note: black & white
 ![Thinking Differently](screenshots/Thinking_Differently-01:45.jpg "Thinking Differently (01:45)")
 ![Thinking Differently](screenshots/Thinking_Differently-32:05.jpg "Thinking Differently (32:05)")
 
