@@ -112,6 +112,12 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 3840x2160
 ![Darktable 2.4 Review](screenshots/Darktable_2.4_Review-00:30.jpg "Darktable 2.4 Review (00:30)")
 
+### [Darktable Day 1 :: Getting Started  :: The basics](https://youtu.be/899uLpO2W9w)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Video Length: 28:17
+* Video Resolution: 2560x1440
+![Darktable Day 1 :: Getting Started  :: The basics](screenshots/Darktable_Day_1_::_Getting_Started_::_The_basics-13:20.jpg "Darktable Day 1 :: Getting Started  :: The basics (13:20)")
+
 ### [Darktable edit part 1](https://youtu.be/DiZlySTcXAw)
 * Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
 * Video Length: 01:58
