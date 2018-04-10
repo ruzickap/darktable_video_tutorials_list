@@ -183,6 +183,15 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 1920x1080
 ![Darktable Intro](screenshots/Darktable_Intro-08:35.jpg "Darktable Intro (08:35)")
 
+### [darktable NEWB :: Part 2 :: First Edits](https://youtu.be/np3hkoGCGDI)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Video Length: 31:50
+* Video Resolution: 2560x1440
+![darktable NEWB :: Part 2 :: First Edits](screenshots/darktable_NEWB_::_Part_2_::_First_Edits-01:35.jpg "darktable NEWB :: Part 2 :: First Edits (01:35)")
+![darktable NEWB :: Part 2 :: First Edits](screenshots/darktable_NEWB_::_Part_2_::_First_Edits-11:20.jpg "darktable NEWB :: Part 2 :: First Edits (11:20)")
+![darktable NEWB :: Part 2 :: First Edits](screenshots/darktable_NEWB_::_Part_2_::_First_Edits-16:20.jpg "darktable NEWB :: Part 2 :: First Edits (16:20)")
+![darktable NEWB :: Part 2 :: First Edits](screenshots/darktable_NEWB_::_Part_2_::_First_Edits-23:55.jpg "darktable NEWB :: Part 2 :: First Edits (23:55)")
+
 ### [Darktable Noise Removal | Darktable Quick Tips](https://youtu.be/YJ4W60VeJ0I)
 * Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
 * Video Length: 04:43
