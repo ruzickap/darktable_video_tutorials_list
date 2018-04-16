@@ -192,6 +192,15 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![darktable NEWB :: Part 2 :: First Edits](screenshots/darktable_NEWB_::_Part_2_::_First_Edits-16:20.jpg "darktable NEWB :: Part 2 :: First Edits (16:20)")
 ![darktable NEWB :: Part 2 :: First Edits](screenshots/darktable_NEWB_::_Part_2_::_First_Edits-23:55.jpg "darktable NEWB :: Part 2 :: First Edits (23:55)")
 
+### [darktable NEWB :: Part 3 :: More Modules, Masking and Denoise](https://youtu.be/MQ7XO4n0Xvw)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Video Length: 46:10
+* Video Resolution: 1920x1080
+![darktable NEWB :: Part 3 :: More Modules, Masking and Denoise](screenshots/darktable_NEWB_::_Part_3_::_More_Modules,_Masking_and_Denoise-01:05.jpg "darktable NEWB :: Part 3 :: More Modules, Masking and Denoise (01:05)")
+![darktable NEWB :: Part 3 :: More Modules, Masking and Denoise](screenshots/darktable_NEWB_::_Part_3_::_More_Modules,_Masking_and_Denoise-10:10.jpg "darktable NEWB :: Part 3 :: More Modules, Masking and Denoise (10:10)")
+![darktable NEWB :: Part 3 :: More Modules, Masking and Denoise](screenshots/darktable_NEWB_::_Part_3_::_More_Modules,_Masking_and_Denoise-15:20.jpg "darktable NEWB :: Part 3 :: More Modules, Masking and Denoise (15:20)")
+![darktable NEWB :: Part 3 :: More Modules, Masking and Denoise](screenshots/darktable_NEWB_::_Part_3_::_More_Modules,_Masking_and_Denoise-26:25.jpg "darktable NEWB :: Part 3 :: More Modules, Masking and Denoise (26:25)")
+
 ### [Darktable Noise Removal | Darktable Quick Tips](https://youtu.be/YJ4W60VeJ0I)
 * Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
 * Video Length: 04:43
