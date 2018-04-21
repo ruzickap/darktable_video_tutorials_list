@@ -221,6 +221,12 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 1920x1080
 ![Darktable Parametric Masks](screenshots/Darktable_Parametric_Masks-00:10.jpg "Darktable Parametric Masks (00:10)")
 
+### [darktable Quickie :: Edit :: Tutorial - Editing Car Show Photos](https://youtu.be/CLpBrszjgjM)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Video Length: 16:52
+* Video Resolution: 2560x1440
+![darktable Quickie :: Edit :: Tutorial - Editing Car Show Photos](screenshots/darktable_Quickie_::_Edit_::_Tutorial_-_Editing_Car_Show_Photos-00:05.jpg "darktable Quickie :: Edit :: Tutorial - Editing Car Show Photos (00:05)")
+
 ### [Darktable Quicky Tutorial - Same Image Ten Ways](https://youtu.be/gjC6PlJZB7E)
 * Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
 * Video Length: 25:08
