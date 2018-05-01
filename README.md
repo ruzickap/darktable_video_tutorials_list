@@ -227,6 +227,13 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 2560x1440
 ![darktable Quickie :: Edit :: Tutorial - Editing Car Show Photos](screenshots/darktable_Quickie_::_Edit_::_Tutorial_-_Editing_Car_Show_Photos-00:05.jpg "darktable Quickie :: Edit :: Tutorial - Editing Car Show Photos (00:05)")
 
+### [darktable quickie :: Low key studio shoot](https://youtu.be/8EcyxwGZja8)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Video Length: 10:45
+* Video Resolution: 2560x1440
+![darktable quickie :: Low key studio shoot](screenshots/darktable_quickie_::_Low_key_studio_shoot-01:00.jpg "darktable quickie :: Low key studio shoot (01:00)")
+![darktable quickie :: Low key studio shoot](screenshots/darktable_quickie_::_Low_key_studio_shoot-06:00.jpg "darktable quickie :: Low key studio shoot (06:00)")
+
 ### [Darktable Quicky Tutorial - Same Image Ten Ways](https://youtu.be/gjC6PlJZB7E)
 * Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
 * Video Length: 25:08
