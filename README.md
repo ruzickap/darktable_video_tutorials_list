@@ -246,6 +246,12 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 2560x1440
 ![Darktable Quicky :: Darktable Tutorial :: Street Photography Edit](screenshots/Darktable_Quicky_::_Darktable_Tutorial_::_Street_Photography_Edit-01:55.jpg "Darktable Quicky :: Darktable Tutorial :: Street Photography Edit (01:55)")
 
+### [Darktable Quick Edit](https://youtu.be/njkrsurJpek)
+* Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
+* Video Length: 07:56
+* Video Resolution: 3840x2160
+![Darktable Quick Edit](screenshots/Darktable_Quick_Edit-00:10.jpg "Darktable Quick Edit (00:10)")
+
 ### [Darktable Raw edit | Studio Shoot](https://youtu.be/vsuNN6uKuQI)
 * Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
 * Video Length: 08:51
