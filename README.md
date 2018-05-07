@@ -48,6 +48,13 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 1280x720
 ![Antelope Canyon](screenshots/Antelope_Canyon-00:15.jpg "Antelope Canyon (00:15)")
 
+### [Any Camera + Single Flash + FREE EDITING SOFTWARE](https://youtu.be/vtcY_tTpf-0)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Video Length: 46:26
+* Video Resolution: 1920x1080
+![Any Camera + Single Flash + FREE EDITING SOFTWARE](screenshots/Any_Camera_+_Single_Flash_+_FREE_EDITING_SOFTWARE-29:50.jpg "Any Camera + Single Flash + FREE EDITING SOFTWARE (29:50)")
+![Any Camera + Single Flash + FREE EDITING SOFTWARE](screenshots/Any_Camera_+_Single_Flash_+_FREE_EDITING_SOFTWARE-40:40.jpg "Any Camera + Single Flash + FREE EDITING SOFTWARE (40:40)")
+
 ### [A Demonstration of Darktable Masks | Darktable Tutorial #07](https://youtu.be/SKknBy5lX7I)
 * Author: [Riley Brandt](https://www.youtube.com/channel/UCt6U6IJ2myOToBFeVL-EaXA) (https://www.rileybrandt.com/)
 * Video Length: 04:53
