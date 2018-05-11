@@ -49,7 +49,7 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![Antelope Canyon](screenshots/Antelope_Canyon-00:15.jpg "Antelope Canyon (00:15)")
 
 ### [Any Camera + Single Flash + FREE EDITING SOFTWARE](https://youtu.be/vtcY_tTpf-0)
-* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 * Video Length: 46:26
 * Video Resolution: 1920x1080
 ![Any Camera + Single Flash + FREE EDITING SOFTWARE](screenshots/Any_Camera_+_Single_Flash_+_FREE_EDITING_SOFTWARE-29:50.jpg "Any Camera + Single Flash + FREE EDITING SOFTWARE (29:50)")
@@ -120,7 +120,7 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![Darktable 2.4 Review](screenshots/Darktable_2.4_Review-00:30.jpg "Darktable 2.4 Review (00:30)")
 
 ### [Darktable Day 1 :: Getting Started  :: The basics](https://youtu.be/899uLpO2W9w)
-* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 * Video Length: 28:17
 * Video Resolution: 2560x1440
 ![Darktable Day 1 :: Getting Started  :: The basics](screenshots/Darktable_Day_1_::_Getting_Started_::_The_basics-13:20.jpg "Darktable Day 1 :: Getting Started  :: The basics (13:20)")
@@ -132,7 +132,7 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![Darktable edit part 1](screenshots/Darktable_edit_part_1-00:20.jpg "Darktable edit part 1 (00:20)")
 
 ### [Darktable Edit Tutorial. Funky 70s look with current commercial trend feel](https://youtu.be/_aY7LtkovK4)
-* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 * Video Length: 13:42
 * Video Resolution: 2560x1440
 ![Darktable Edit Tutorial. Funky 70s look with current commercial trend feel](screenshots/Darktable_Edit_Tutorial._Funky_70s_look_with_current_commercial_trend_feel-04:35.jpg "Darktable Edit Tutorial. Funky 70s look with current commercial trend feel (04:35)")
@@ -191,7 +191,7 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![Darktable Intro](screenshots/Darktable_Intro-08:35.jpg "Darktable Intro (08:35)")
 
 ### [darktable NEWB :: Part 2 :: First Edits](https://youtu.be/np3hkoGCGDI)
-* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 * Video Length: 31:50
 * Video Resolution: 2560x1440
 ![darktable NEWB :: Part 2 :: First Edits](screenshots/darktable_NEWB_::_Part_2_::_First_Edits-01:35.jpg "darktable NEWB :: Part 2 :: First Edits (01:35)")
@@ -200,7 +200,7 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![darktable NEWB :: Part 2 :: First Edits](screenshots/darktable_NEWB_::_Part_2_::_First_Edits-23:55.jpg "darktable NEWB :: Part 2 :: First Edits (23:55)")
 
 ### [darktable NEWB :: Part 3 :: More Modules, Masking and Denoise](https://youtu.be/MQ7XO4n0Xvw)
-* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 * Video Length: 46:10
 * Video Resolution: 1920x1080
 ![darktable NEWB :: Part 3 :: More Modules, Masking and Denoise](screenshots/darktable_NEWB_::_Part_3_::_More_Modules,_Masking_and_Denoise-01:05.jpg "darktable NEWB :: Part 3 :: More Modules, Masking and Denoise (01:05)")
@@ -229,26 +229,26 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![Darktable Parametric Masks](screenshots/Darktable_Parametric_Masks-00:10.jpg "Darktable Parametric Masks (00:10)")
 
 ### [darktable Quickie :: Edit :: Tutorial - Editing Car Show Photos](https://youtu.be/CLpBrszjgjM)
-* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 * Video Length: 16:52
 * Video Resolution: 2560x1440
 ![darktable Quickie :: Edit :: Tutorial - Editing Car Show Photos](screenshots/darktable_Quickie_::_Edit_::_Tutorial_-_Editing_Car_Show_Photos-00:05.jpg "darktable Quickie :: Edit :: Tutorial - Editing Car Show Photos (00:05)")
 
 ### [darktable quickie :: Low key studio shoot](https://youtu.be/8EcyxwGZja8)
-* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 * Video Length: 10:45
 * Video Resolution: 2560x1440
 ![darktable quickie :: Low key studio shoot](screenshots/darktable_quickie_::_Low_key_studio_shoot-01:00.jpg "darktable quickie :: Low key studio shoot (01:00)")
 ![darktable quickie :: Low key studio shoot](screenshots/darktable_quickie_::_Low_key_studio_shoot-06:00.jpg "darktable quickie :: Low key studio shoot (06:00)")
 
 ### [Darktable Quicky Tutorial - Same Image Ten Ways](https://youtu.be/gjC6PlJZB7E)
-* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 * Video Length: 25:08
 * Video Resolution: 2560x1440
 ![Darktable Quicky Tutorial - Same Image Ten Ways](screenshots/Darktable_Quicky_Tutorial_-_Same_Image_Ten_Ways-00:30.jpg "Darktable Quicky Tutorial - Same Image Ten Ways (00:30)")
 
 ### [Darktable Quicky :: Darktable Tutorial :: Street Photography Edit](https://youtu.be/QLJhj6TvGVY)
-* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 * Video Length: 20:43
 * Video Resolution: 2560x1440
 ![Darktable Quicky :: Darktable Tutorial :: Street Photography Edit](screenshots/Darktable_Quicky_::_Darktable_Tutorial_::_Street_Photography_Edit-01:55.jpg "Darktable Quicky :: Darktable Tutorial :: Street Photography Edit (01:55)")
@@ -309,13 +309,13 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![Darktable Styles Presets](screenshots/Darktable_Styles_Presets-05:45.jpg "Darktable Styles Presets (05:45)")
 
 ### [Darktable through to GIMP Edit Tutorial - Beauty Shot](https://youtu.be/1IqXIjj4erk)
-* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 * Video Length: 25:07
 * Video Resolution: 2560x1440
 ![Darktable through to GIMP Edit Tutorial - Beauty Shot](screenshots/Darktable_through_to_GIMP_Edit_Tutorial_-_Beauty_Shot-00:10.jpg "Darktable through to GIMP Edit Tutorial - Beauty Shot (00:10)")
 
 ### [Darktable Tutorial - Killer Black and White images B&W](https://youtu.be/GWGNuHBi8ME)
-* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 * Video Length: 57:30
 * Video Resolution: 1920x1080
 ![Darktable Tutorial - Killer Black and White images B&W](screenshots/Darktable_Tutorial_-_Killer_Black_and_White_images_B&W-08:40.jpg "Darktable Tutorial - Killer Black and White images B&W (08:40)")
@@ -324,20 +324,20 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![Darktable Tutorial - Killer Black and White images B&W](screenshots/Darktable_Tutorial_-_Killer_Black_and_White_images_B&W-51:50.jpg "Darktable Tutorial - Killer Black and White images B&W (51:50)")
 
 ### [Darktable Tutorial - Overriding Default Modules and Module Settings](https://youtu.be/FYwuTu5xtyw)
-* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 * Video Length: 15:14
 * Video Resolution: 2560x1440
 ![Darktable Tutorial - Overriding Default Modules and Module Settings](screenshots/Darktable_Tutorial_-_Overriding_Default_Modules_and_Module_Settings-02:15.jpg "Darktable Tutorial - Overriding Default Modules and Module Settings (02:15)")
 ![Darktable Tutorial - Overriding Default Modules and Module Settings](screenshots/Darktable_Tutorial_-_Overriding_Default_Modules_and_Module_Settings-10:40.jpg "Darktable Tutorial - Overriding Default Modules and Module Settings (10:40)")
 
 ### [Darktable Tutorial :: History Stack](https://youtu.be/J_0m48IRA04)
-* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 * Video Length: 18:33
 * Video Resolution: 2560x1440
 ![Darktable Tutorial :: History Stack](screenshots/Darktable_Tutorial_::_History_Stack-01:05.jpg "Darktable Tutorial :: History Stack (01:05)")
 
 ### [Darktable Tutorial :: How to fake fall colors](https://youtu.be/r-nYkDAkVmU)
-* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 * Video Length: 04:22
 * Video Resolution: 2560x1440
 ![Darktable Tutorial :: How to fake fall colors](screenshots/Darktable_Tutorial_::_-_How_to_fake_fall_colors-00:45.jpg "Darktable Tutorial :: How to fake fall colors (00:45)")
@@ -350,7 +350,7 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![Darktable user request: backlit portraits](screenshots/Darktable_user_request:_backlit_portraits-04:50.jpg "Darktable user request: backlit portraits (04:50)")
 
 ### [Darktable Workflow and Editing Tutorial - Ubuntu - Linux - Photography](https://youtu.be/LMhdhzHx9Y8)
-* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 * Video Length: 01:31:13
 * Video Resolution: 2560x1440
 ![Darktable Workflow and Editing Tutorial - Ubuntu - Linux - Photography](screenshots/Darktable_Workflow_and_Editing_Tutorial_-_Ubuntu_-_Linux_-_Photography-09:55.jpg "Darktable Workflow and Editing Tutorial - Ubuntu - Linux - Photography (09:55)")
@@ -362,13 +362,13 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![Darktable Workflow and Editing Tutorial - Ubuntu - Linux - Photography](screenshots/Darktable_Workflow_and_Editing_Tutorial_-_Ubuntu_-_Linux_-_Photography-01:22:55.jpg "Darktable Workflow and Editing Tutorial - Ubuntu - Linux - Photography (01:22:55)")
 
 ### [Darktable Workflow - Tips to QUICKLY go from raw to keepers](https://youtu.be/F7dgOqNKmqw)
-* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 * Video Length: 30:02
 * Video Resolution: 2560x1440
 ![Darktable Workflow - Tips to QUICKLY go from raw to keepers](screenshots/Darktable_Workflow_-_Tips_to_QUICKLY_go_from_raw_to_keepers-03:20.jpg "Darktable Workflow - Tips to QUICKLY go from raw to keepers (03:20)")
 
 ### [Darktable & Gimp workflow edit of a studio taken photo on Ubuntu](https://youtu.be/7Htvj0cFMRc)
-* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 * Video Length: 31:52
 * Video Resolution: 1280x720
 ![Darktable & Gimp workflow edit of a studio taken photo on Ubuntu](screenshots/Darktable_&_Gimp_workflow_edit_of_a_studio_taken_photo_on_Ubuntu-02:35.jpg "Darktable & Gimp workflow edit of a studio taken photo on Ubuntu (02:35)")
@@ -387,21 +387,21 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![Darktable - Change the season of a landscape](screenshots/Darktable_-_Change_the_season_of_a_landscape-00:20.jpg "Darktable - Change the season of a landscape (00:20)")
 
 ### [Darktable - Denoise options strategies and thoughts](https://youtu.be/rpKakcBVqz4)
-* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 * Video Length: 24:27
 * Video Resolution: 1920x1080
 ![Darktable - Denoise options strategies and thoughts](screenshots/Darktable_-_Denoise_options_strategies_and_thoughts-01:30.jpg "Darktable - Denoise options strategies and thoughts (01:30)")
 ![Darktable - Denoise options strategies and thoughts](screenshots/Darktable_-_Denoise_options_strategies_and_thoughts-12:50.jpg "Darktable - Denoise options strategies and thoughts (12:50)")
 
 ### [Darktable - Workflow - Selecting and bulk processing similar pictures.](https://youtu.be/7pZgz4TbzQY)
-* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 * Video Length: 27:31
 * Video Resolution: 1280x720
 ![Darktable - Workflow - Selecting and bulk processing similar pictures.](screenshots/Darktable_-_Workflow_-_Selecting_and_bulk_processing_similar_pictures.-10:40.jpg "Darktable - Workflow - Selecting and bulk processing similar pictures. (10:40)")
 ![Darktable - Workflow - Selecting and bulk processing similar pictures.](screenshots/Darktable_-_Workflow_-_Selecting_and_bulk_processing_similar_pictures.-20:15.jpg "Darktable - Workflow - Selecting and bulk processing similar pictures. (20:15)")
 
 ### [Darktable :: Skin tone color and texture](https://youtu.be/Cdr2z5ITNb8)
-* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 * Video Length: 21:03
 * Video Resolution: 2560x1440
 ![Darktable :: Skin tone color and texture](screenshots/Darktable_::_Skin_tone_color_and_texture-03:40.jpg "Darktable :: Skin tone color and texture (03:40)")
@@ -677,7 +677,7 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![Supermoon](screenshots/Supermoon-32:20.jpg "Supermoon (32:20)")
 
 ### [The best $75 you can spend to improve your studio photography skills](https://youtu.be/xFJr0cajWLU)
-* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 * Video Length: 37:42
 * Video Resolution: 1280x720
 ![The best $75 you can spend to improve your studio photography skills](screenshots/The_best_$75_you_can_spend_to_improve_your_studio_photography_skills-16:25.jpg "The best $75 you can spend to improve your studio photography skills (16:25)")
@@ -741,7 +741,7 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 
   https://www.youtube.com/playlist?list=PLsks-zRRM1ZVN_g7P6ZAsYVqTltmXyBjl
 
-* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 
   https://www.youtube.com/playlist?list=PLCaNtZp57HsNmK9lGUMDS8f3rYugoeaSh
 
