@@ -98,6 +98,12 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 1920x1080
 ![Correcting for Under Exposure in Darktable](screenshots/Correcting_for_Under_Exposure_in_Darktable-00:10.jpg "Correcting for Under Exposure in Darktable (00:10)")
 
+### [Dance photo editing workflow with Darktable and GIMP](https://youtu.be/JDHHb8a3xYE)
+* Author: [Todd Ferrante](https://www.youtube.com/channel/UCuxJRpGPzRUtz3Dy8ynfN3A) (https://www.toddferrante.com/)
+* Video Length: 40:27
+* Video Resolution: 1280x720
+![Dance photo editing workflow with Darktable and GIMP](screenshots/Dance_photo_editing_workflow_with_Darktable_and_GIMP-01:50.jpg "Dance photo editing workflow with Darktable and GIMP (01:50)")
+
 ### [Darktable 1.6](https://youtu.be/gFq5cnxwBiA)
 * Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
 * Video Length: 07:08
@@ -246,7 +252,7 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![Darktable Parametric Masks](screenshots/Darktable_Parametric_Masks-00:10.jpg "Darktable Parametric Masks (00:10)")
 
 ### [darktable quickie tutorial :: Low Key studio shoot on dark skin](https://youtu.be/BAxrpywsqPM)
-* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 * Video Length: 34:58
 * Video Resolution: 2560x1440
 ![darktable quickie tutorial :: Low Key studio shoot on dark skin](screenshots/darktable_quickie_tutorial_::_Low_Key_studio_shoot_on_dark_skin-01:55.jpg "darktable quickie tutorial :: Low Key studio shoot on dark skin (01:55)")
