@@ -62,6 +62,11 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![A Demonstration of Darktable Masks | Darktable Tutorial #07](screenshots/A_Demonstration_of_Darktable_Masks_-_Darktable_Tutorial_07-00:28.jpg "A Demonstration of Darktable Masks | Darktable Tutorial #07 (00:28)")
 ![A Demonstration of Darktable Masks | Darktable Tutorial #07](screenshots/A_Demonstration_of_Darktable_Masks_-_Darktable_Tutorial_07-01:52.jpg "A Demonstration of Darktable Masks | Darktable Tutorial #07 (01:52)")
 
+### [A simple edit - Darktable Insights ep 5](https://youtu.be/5BQkdONMEZ0)
+* Author: [HPBirkeland Photography](https://www.youtube.com/channel/UCORg6wKMeM1RBFVGbUc9jgw) (https://hpbirkeland.com/)
+* Video Length: 14:40
+* Video Resolution: 1920x1080
+![A simple edit - Darktable Insights ep 5](screenshots/A_simple_edit_-_Darktable_Insights_ep_5-02:05.jpg "A simple edit - Darktable Insights ep 5 (02:05)")
 
 ### [Basic Stacking - Orion](https://youtu.be/_Yq60o5yQsg)
 * Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) (https://www.facebook.com/harrydurginphotography/)
@@ -190,6 +195,12 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 1920x1080
 ![Darktable Intro](screenshots/Darktable_Intro-08:35.jpg "Darktable Intro (08:35)")
 
+### [Darktable Masks](https://youtu.be/bzzYwHaOiBc)
+* Author: [Wendy Hill Photography](https://www.youtube.com/channel/UCrdj8sIpH7OdpGlEsGILR5w) (https://www.wendyhillphoto.com/)
+* Video Length: 11:49
+* Video Resolution: 1280x720
+![Darktable Masks](screenshots/Darktable_Masks-00:05.jpg "Darktable Masks (00:05)")
+
 ### [darktable NEWB :: Part 2 :: First Edits](https://youtu.be/np3hkoGCGDI)
 * Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 * Video Length: 31:50
@@ -227,6 +238,15 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Length: 12:10
 * Video Resolution: 1920x1080
 ![Darktable Parametric Masks](screenshots/Darktable_Parametric_Masks-00:10.jpg "Darktable Parametric Masks (00:10)")
+
+### [darktable quickie tutorial :: Low Key studio shoot on dark skin](https://youtu.be/BAxrpywsqPM)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (https://blur.bz/)
+* Video Length: 34:58
+* Video Resolution: 2560x1440
+![darktable quickie tutorial :: Low Key studio shoot on dark skin](screenshots/darktable_quickie_tutorial_::_Low_Key_studio_shoot_on_dark_skin-01:55.jpg "darktable quickie tutorial :: Low Key studio shoot on dark skin (01:55)")
+![darktable quickie tutorial :: Low Key studio shoot on dark skin](screenshots/darktable_quickie_tutorial_::_Low_Key_studio_shoot_on_dark_skin-12:40.jpg "darktable quickie tutorial :: Low Key studio shoot on dark skin (12:40)")
+![darktable quickie tutorial :: Low Key studio shoot on dark skin](screenshots/darktable_quickie_tutorial_::_Low_Key_studio_shoot_on_dark_skin-16:35.jpg "darktable quickie tutorial :: Low Key studio shoot on dark skin (16:35)")
+![darktable quickie tutorial :: Low Key studio shoot on dark skin](screenshots/darktable_quickie_tutorial_::_Low_Key_studio_shoot_on_dark_skin-31:00.jpg "darktable quickie tutorial :: Low Key studio shoot on dark skin (31:00)")
 
 ### [darktable Quickie :: Edit :: Tutorial - Editing Car Show Photos](https://youtu.be/CLpBrszjgjM)
 * Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
@@ -723,6 +743,18 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 1280x720
 ![Using White Balance Creatively in DarkTable](screenshots/Using_White_Balance_Creatively_in_DarkTable-00:10.jpg "Using White Balance Creatively in DarkTable (00:10)")
 
+### [White Balance in Darktable](https://youtu.be/5g1jCEwD6T0)
+* Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
+* Video Length: 10:29
+* Video Resolution: 3840x2160
+![White Balance in Darktable](screenshots/White_Balance_in_Darktable-00:50.jpg "White Balance in Darktable (00:50)")
+
+### [White Balance in Darktable](https://youtu.be/5g1jCEwD6T0)
+* Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
+* Video Length: 10:29
+* Video Resolution: 3840x2160
+![White Balance in Darktable](screenshots/White_Balance_in_Darktable-00:50.jpg "White Balance in Darktable (00:50)")
+![White Balance in Darktable](screenshots/White_Balance_in_Darktable-07:35.jpg "White Balance in Darktable (07:35)")
 
 
 ## French
