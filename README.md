@@ -195,6 +195,12 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Resolution: 1920x1080
 ![Darktable Intro](screenshots/Darktable_Intro-08:35.jpg "Darktable Intro (08:35)")
 
+### [Darktable in practical use - Darktable Insights ep 2](https://youtu.be/XXceg7s2Dto)
+* Author: [HPBirkeland Photography](https://www.youtube.com/channel/UCORg6wKMeM1RBFVGbUc9jgw) (https://hpbirkeland.com/)
+* Video Length: 10:46
+* Video Resolution: 1920x1080
+![Darktable in practical use - Darktable Insights ep 2](screenshots/Darktable_in_practical_use_-_Darktable_Insights_ep_2-00:30.jpg "Darktable in practical use - Darktable Insights ep 2 (00:30)")
+
 ### [Darktable Masks](https://youtu.be/bzzYwHaOiBc)
 * Author: [Wendy Hill Photography](https://www.youtube.com/channel/UCrdj8sIpH7OdpGlEsGILR5w) (https://www.wendyhillphoto.com/)
 * Video Length: 11:49
@@ -742,12 +748,6 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Video Length: 04:21
 * Video Resolution: 1280x720
 ![Using White Balance Creatively in DarkTable](screenshots/Using_White_Balance_Creatively_in_DarkTable-00:10.jpg "Using White Balance Creatively in DarkTable (00:10)")
-
-### [White Balance in Darktable](https://youtu.be/5g1jCEwD6T0)
-* Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
-* Video Length: 10:29
-* Video Resolution: 3840x2160
-![White Balance in Darktable](screenshots/White_Balance_in_Darktable-00:50.jpg "White Balance in Darktable (00:50)")
 
 ### [White Balance in Darktable](https://youtu.be/5g1jCEwD6T0)
 * Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) (http://shanemiltonphotography.com/)
