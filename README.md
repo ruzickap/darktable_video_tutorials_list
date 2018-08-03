@@ -273,6 +273,14 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![darktable quickie :: Low key studio shoot](screenshots/darktable_quickie_::_Low_key_studio_shoot-01:00.jpg "darktable quickie :: Low key studio shoot (01:00)")
 ![darktable quickie :: Low key studio shoot](screenshots/darktable_quickie_::_Low_key_studio_shoot-06:00.jpg "darktable quickie :: Low key studio shoot (06:00)")
 
+### [Darktable Quickie :: White backgrounds :: color picker module](https://youtu.be/uGWgUbl0EAU)
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
+* Video Length: 19:51
+* Video Resolution: 2560x1440
+![Darktable Quickie :: White backgrounds :: color picker module](screenshots/Darktable_Quickie_::_White_backgrounds_::_color_picker_module-00:35.jpg "Darktable Quickie :: White backgrounds :: color picker module (00:35)")
+![Darktable Quickie :: White backgrounds :: color picker module](screenshots/Darktable_Quickie_::_White_backgrounds_::_color_picker_module-02:00.jpg "Darktable Quickie :: White backgrounds :: color picker module (02:00)")
+![Darktable Quickie :: White backgrounds :: color picker module](screenshots/Darktable_Quickie_::_White_backgrounds_::_color_picker_module-15:45.jpg "Darktable Quickie :: White backgrounds :: color picker module (15:45)")
+
 ### [Darktable Quicky Tutorial - Same Image Ten Ways](https://youtu.be/gjC6PlJZB7E)
 * Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) (http://blur.bz/)
 * Video Length: 25:08
