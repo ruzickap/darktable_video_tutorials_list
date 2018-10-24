@@ -324,6 +324,14 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 
 ![Darktable Parametric Masks](screenshots/Darktable_Parametric_Masks-00:10.jpg "Darktable Parametric Masks (00:10)")
 
+### [darktable Quickie Edit :: Split tone portrait](https://youtu.be/MqvQvkm5vfU)
+
+* Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) [http://blur.bz/](http://blur.bz/)
+* Video Length: 26:43
+* Video Resolution: 2560x1440
+
+![darktable Quickie Edit :: Split tone portrait](screenshots/darktable_Quickie_Edit_::_Split_tone_portrait-02:00.jpg "darktable Quickie Edit :: Split tone portrait (02:00)")
+
 ### [darktable quickie tutorial :: Low Key studio shoot on dark skin](https://youtu.be/BAxrpywsqPM)
 
 * Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg) [http://blur.bz/](http://blur.bz/)
