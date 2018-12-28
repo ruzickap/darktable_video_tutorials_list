@@ -878,6 +878,14 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 
 ![Red Hair](screenshots/Red_Hair-00:30.jpg "Red Hair (00:30)")
 
+### [Retouch Module Darktable 2.6](https://youtu.be/y4i9o27g6DQ)
+
+* Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) [http://shanemiltonphotography.com/](http://shanemiltonphotography.com/)
+* Video Length: 09:56
+* Video Resolution: 3840x2160
+
+![Retouch Module Darktable 2.6](screenshots/Retouch_Module_Darktable_2.6-00:15.jpg "Retouch Module Darktable 2.6 (00:15)")
+
 ### [Senja peninsula](https://youtu.be/CY3Zgty2rt0)
 
 * Author: [harry durgin](https://www.youtube.com/channel/UCngiFhMSngeFwUGtsXA-17w) [https://www.facebook.com/harrydurginphotography/](https://www.facebook.com/harrydurginphotography/)
@@ -1032,3 +1040,7 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 * Author: [Robert Hutton](https://www.youtube.com/channel/UCzzc6FwLfdgqdO2BPDc3eFw) [https://www.roberthutton.net](https://www.roberthutton.net)
 
   [https://www.youtube.com/playlist?list=PLmvlUro_Up1NBX7VK8UUuyWo1B468zEA0](https://www.youtube.com/playlist?list=PLmvlUro_Up1NBX7VK8UUuyWo1B468zEA0)
+
+* Author: [](https://www.youtube.com/user/audio2u/featured) []()
+
+  [https://www.youtube.com/watch?v=s41rmYxOQ0g&list=PLlYWvzmJQTrRq7JrYdD7k3-8-v-uHnhK_](https://www.youtube.com/watch?v=s41rmYxOQ0g&list=PLlYWvzmJQTrRq7JrYdD7k3-8-v-uHnhK_)

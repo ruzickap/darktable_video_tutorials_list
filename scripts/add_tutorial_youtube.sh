@@ -25,9 +25,11 @@ rm $TEMP_FILE
 
 cat >> $OUTPUT_FILE << EOF
 ### [${YOUTUBE_VIDEO_NAME}](https://youtu.be/${YOUTUBE_VIDEO_ID})
-* Author: [David LaCivita](https://www.youtube.com/channel/UC8ThgxLUpI1g7qns2akHC4g) (https://dlaciv12.tumblr.com/)
+
+* Author: [Shane Milton](https://www.youtube.com/channel/UC9Xdl6CglNwxCZqvwKuE9TA) [http://shanemiltonphotography.com/](http://shanemiltonphotography.com/)
 * Video Length: ${YOUTUBE_VIDEO_LENGTH}
 * Video Resolution: ${YOUTUBE_VIDEO_RESOLUTION}
+
 EOF
 
 shift
