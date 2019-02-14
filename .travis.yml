@@ -1,22 +1,27 @@
-language: ruby
+dist: xenial
 
-rvm:
-  - 2.4.1
+language: python
 
-before_script:
-  - gem install awesome_bot
+services:
+  - docker
+
+node_js:
+  - "8"
+
+install:
+  # Install markdownlint and markdown-link-check
+  - npm install -g markdownlint-cli markdown-link-check > /dev/null
 
 script:
-  # Getting the URLs ftom title which should be unique for sure
-  - grep ^### README.md > /tmp/README.md-unique_urls
-  - awesome_bot --allow-redirect --white-list 'https://youtu.be/$' /tmp/README.md-unique_urls
+  # Markdown check
+  - find . -name "*.md" -exec markdownlint {} \;
+
+  # Link Checks
+  - find . -name "*.md" -exec markdown-link-check {} \;
 
   # Checking the duplicate Video Length values which should unlikely be the same
   - export DUPLICATE_VIDEO_LENGTH=`grep '* Video Length:' README.md | sort | uniq -d`
   - if `echo "${DUPLICATE_VIDEO_LENGTH}" | grep Video`; then echo -e "\n*** Found duplicate Video Length values which is probably copy&paste typo."; exit 1; else echo -e "\n*** Test OK"; fi
-
-  # Checking all URLs
-  - awesome_bot --allow-dupe --allow-redirect --white-list 'https://youtu.be/$' README.md
 
   # Check if the tutorials are properly sorted
   - grep "^###" README.md > /tmp/tutorials
