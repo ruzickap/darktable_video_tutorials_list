@@ -1338,6 +1338,6 @@ Photos shown in videos are one place, sorted alphabetically with few details.
   [https://www.youtube.com/playlist?list=PLmvlUro_Up1NBX7VK8UUuyWo1B468zEA0](https://www.youtube.com/playlist?list=PLmvlUro_Up1NBX7VK8UUuyWo1B468zEA0)
 
 * Author: [Bruce Williams Photography](https://www.youtube.com/user/audio2u/featured)
-  [https://brucewilliamsphotography.com](https://brucewilliamsphotography.com)
+  [https://brucewilliamsphotography.com](https://www.facebook.com/pages/category/Camera-Photo/Bruce-Williams-Photography-177839898649/)
 
   [https://www.youtube.com/watch?v=s41rmYxOQ0g&list=PLlYWvzmJQTrRq7JrYdD7k3-8-v-uHnhK_](https://www.youtube.com/watch?v=s41rmYxOQ0g&list=PLlYWvzmJQTrRq7JrYdD7k3-8-v-uHnhK_)
