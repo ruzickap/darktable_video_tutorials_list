@@ -1,0 +1,56 @@
+name: "checks"
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  checks:
+    name: "Checks"
+    runs-on: ubuntu-18.04
+
+    steps:
+    - uses: actions/checkout@master
+      with:
+        fetch-depth: 1
+    - uses: gaurav-nelson/github-action-markdown-link-check@0.4.0
+
+    - name: "Install Node.js 12"
+      uses: actions/setup-node@v1
+      with:
+        node-version: 12.x
+
+    - name: "Install markdownlint-cli"
+      run: npm install -g markdownlint-cli
+
+    - name: "Run markdownlint"
+      run: find . -path ./node_modules -prune -o -name "*.md" -print0 | xargs -t -0 markdownlint
+
+    - name: "Checking the duplicate Video Length values which should unlikely be the same"
+      run: |
+        export DUPLICATE_VIDEO_LENGTH=`grep '* Video Length:' README.md | sort | uniq -d`
+        if `echo "${DUPLICATE_VIDEO_LENGTH}" | grep Video`; then
+          echo -e "\n*** Found duplicate Video Length values which is probably copy&paste typo."
+          exit 1
+        else
+          echo -e "\n*** Test OK"
+        fi
+
+    - name: "Check if the tutorials are properly sorted"
+      run: |
+        grep "^###" README.md > /tmp/tutorials
+        grep "^###" README.md | sort --ignore-case --version-sort > /tmp/sorted_tutorials
+        if sdiff /tmp/tutorials /tmp/sorted_tutorials; then
+          echo -e "\n*** Test OK"
+        else
+          echo -e "\n*** Tutorials are not properly sorted!"
+          exit 1
+        fi
+
+    - name: "Check if the all screenshots are mentioned in main README file"
+      run: |
+        for FILE in screenshots/*; do
+          if ! grep -q "$FILE" README.md; then
+            echo "*** Missing $FILE in README.md"
+          fi
+        done
