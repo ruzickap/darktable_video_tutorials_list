@@ -1,6 +1,6 @@
 # Darktable Video Tutorials with screenshots
 
-[![Build Status](https://travis-ci.com/ruzickap/darktable_video_tutorials_list.svg?branch=master)](https://travis-ci.com/ruzickap/darktable_video_tutorials_list)
+[![Build Status](https://github.com/ruzickap/darktable_video_tutorials_list/workflows/checks/badge.svg)](https://github.com/ruzickap/darktable_video_tutorials_list)
 
 Here you can find the list of Darktable Video Tutorials and it's screenshots.
 It should help you to find similar photos in your collection and try to apply
