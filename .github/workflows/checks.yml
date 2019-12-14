@@ -10,9 +10,8 @@ jobs:
     runs-on: ubuntu-18.04
 
     steps:
-    - uses: actions/checkout@master
-      with:
-        fetch-depth: 1
+    - uses: actions/checkout@v2
+
     - uses: gaurav-nelson/github-action-markdown-link-check@0.4.0
 
     - name: "Install Node.js 12"
