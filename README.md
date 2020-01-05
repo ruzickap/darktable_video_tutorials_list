@@ -332,15 +332,6 @@ Photos shown in videos are one place, sorted alphabetically with few details.
 ![Darktable in practical use - Darktable Insights ep 2](screenshots/Darktable_in_practical_use_-_Darktable_Insights_ep_2-00:30.jpg
 "Darktable in practical use - Darktable Insights ep 2 (00:30)")
 
-### [Darktable Masks](https://youtu.be/bzzYwHaOiBc)
-
-* Author: [Wendy Hill Photography](https://www.youtube.com/channel/UCrdj8sIpH7OdpGlEsGILR5w)
-  [https://www.wendyhillphoto.com/](https://www.wendyhillphoto.com/)
-* Video Length: 11:49
-* Video Resolution: 1280x720
-
-![Darktable Masks](screenshots/Darktable_Masks-00:05.jpg "Darktable Masks (00:05)")
-
 ### [darktable NEWB :: Part 2 :: First Edits](https://youtu.be/np3hkoGCGDI)
 
 * Author: [Keifer Hunniford Photography](https://www.youtube.com/channel/UCM8XE_Gv3Ui5s4F-5TW16jg)
