@@ -12,33 +12,33 @@ jobs:
     runs-on: ubuntu-18.04
 
     steps:
-    - uses: actions/checkout@v2
+      - uses: actions/checkout@v2
 
-    - name: Checking the duplicate Video Length values which should unlikely be the same
-      run: |
-        export DUPLICATE_VIDEO_LENGTH=`grep '* Video Length:' README.md | sort | uniq -d`
-        if `echo "${DUPLICATE_VIDEO_LENGTH}" | grep Video`; then
-          echo -e "\n*** Found duplicate Video Length values which is probably copy&paste typo."
-          exit 1
-        else
-          echo -e "\n*** Test OK"
-        fi
-
-    - name: Check if the tutorials are properly sorted
-      run: |
-        grep "^###" README.md > /tmp/tutorials
-        grep "^###" README.md | sort --ignore-case --version-sort > /tmp/sorted_tutorials
-        if sdiff /tmp/tutorials /tmp/sorted_tutorials; then
-          echo -e "\n*** Test OK"
-        else
-          echo -e "\n*** Tutorials are not properly sorted!"
-          exit 1
-        fi
-
-    - name: Check if the all screenshots are mentioned in main README file
-      run: |
-        for FILE in screenshots/*; do
-          if ! grep -q "$FILE" README.md; then
-            echo "*** Missing $FILE in README.md"
+      - name: Checking the duplicate Video Length values which should unlikely be the same
+        run: |
+          export DUPLICATE_VIDEO_LENGTH=`grep '* Video Length:' README.md | sort | uniq -d`
+          if `echo "${DUPLICATE_VIDEO_LENGTH}" | grep Video`; then
+            echo -e "\n*** Found duplicate Video Length values which is probably copy&paste typo."
+            exit 1
+          else
+            echo -e "\n*** Test OK"
           fi
-        done
+
+      - name: Check if the tutorials are properly sorted
+        run: |
+          grep "^###" README.md > /tmp/tutorials
+          grep "^###" README.md | sort --ignore-case --version-sort > /tmp/sorted_tutorials
+          if sdiff /tmp/tutorials /tmp/sorted_tutorials; then
+            echo -e "\n*** Test OK"
+          else
+            echo -e "\n*** Tutorials are not properly sorted!"
+            exit 1
+          fi
+
+      - name: Check if the all screenshots are mentioned in main README file
+        run: |
+          for FILE in screenshots/*; do
+            if ! grep -q "$FILE" README.md; then
+              echo "*** Missing $FILE in README.md"
+            fi
+          done
