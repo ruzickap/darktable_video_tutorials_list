@@ -15,9 +15,9 @@ on:
 
 jobs:
   markdown-link-check:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
 
       - name: Link Checker
-        uses: gaurav-nelson/github-action-markdown-link-check@0.6.0
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
