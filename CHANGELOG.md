@@ -1,5 +1,17 @@
 # Changelog
 
+## [v1.0.1](https://github.com/ruzickap/darktable_video_tutorials_list/compare/v1.0.0...v1.0.1) (2020-09-17)
+
+- Add GITHUB_TOKEN to super-linter [`#9`](https://github.com/ruzickap/darktable_video_tutorials_list/pull/9)
+- Replace markdown link checker by action-my-markdown-link-checker [`#8`](https://github.com/ruzickap/darktable_video_tutorials_list/pull/8)
+- Replace markdown linter [`#7`](https://github.com/ruzickap/darktable_video_tutorials_list/pull/7)
+- Add super-linter + fix related issues [`#6`](https://github.com/ruzickap/darktable_video_tutorials_list/pull/6)
+- Use shell-linter in latest version [`#5`](https://github.com/ruzickap/darktable_video_tutorials_list/pull/5)
+- Add LICENSE [`#4`](https://github.com/ruzickap/darktable_video_tutorials_list/pull/4)
+- Add shellcheck + change scripts to pass it [`#3`](https://github.com/ruzickap/darktable_video_tutorials_list/pull/3)
+- Ignore CHANGELOG.md when doing markdown checks [`#2`](https://github.com/ruzickap/darktable_video_tutorials_list/pull/2)
+- CHANGELOG file update [`#1`](https://github.com/ruzickap/darktable_video_tutorials_list/pull/1)
+
 ## v1.0.0 (2020-05-10)
 
 - Add .release-it.yml to .gitignore [`2af8406`](https://github.com/ruzickap/darktable_video_tutorials_list/commit/2af840616408b0fcfe2796c7d534b0e436b021e5)
