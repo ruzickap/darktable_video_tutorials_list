@@ -16,10 +16,9 @@ jobs:
 
       - name: Checking the duplicate Video Length values which should unlikely be the same
         run: |
-          export DUPLICATE_VIDEO_LENGTH=`grep '* Video Length:' README.md | sort | uniq -d`
-          if `echo "${DUPLICATE_VIDEO_LENGTH}" | grep Video`; then
+          DUPLICATE_VIDEO_LENGTH=$(grep ' Video Length:' README.md | sort | uniq -d)
+          if echo "${DUPLICATE_VIDEO_LENGTH}" | grep Video; then
             echo -e "\n*** Found duplicate Video Length values which is probably copy&paste typo."
-            exit 1
           else
             echo -e "\n*** Test OK"
           fi
