@@ -8,7 +8,7 @@ on:
       - .github/workflows/markdown.yml
   push:
     branches:
-      - master
+      - main
     paths:
       - '**.md'
       - .github/workflows/markdown.yml

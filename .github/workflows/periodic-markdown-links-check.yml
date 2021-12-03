@@ -9,7 +9,7 @@ on:
       - .github/workflows/periodic-markdown-links-check.yml
   push:
     branches:
-      - master
+      - main
     paths:
       - .github/workflows/periodic-markdown-links-check.yml
 
