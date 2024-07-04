@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.1.0](https://github.com/ruzickap/darktable_video_tutorials_list/compare/v1.0.1...v1.1.0) (2024-07-04)
+
+
+### Features
+
+* add github defaults ([#19](https://github.com/ruzickap/darktable_video_tutorials_list/issues/19)) ([974e7d6](https://github.com/ruzickap/darktable_video_tutorials_list/commit/974e7d6dbc1c488e5177f8a22f74473f0798e8e4))
+* **gh:** add default GitHub repo files ([#18](https://github.com/ruzickap/darktable_video_tutorials_list/issues/18)) ([dadd7c0](https://github.com/ruzickap/darktable_video_tutorials_list/commit/dadd7c0962b31a500fa23ca3e5bf46ba76a0b456))
+* **gha:** unify GHA - renovate, megalinter, markdown, and others ([#15](https://github.com/ruzickap/darktable_video_tutorials_list/issues/15)) ([10d9b30](https://github.com/ruzickap/darktable_video_tutorials_list/commit/10d9b30e204c6852505fea70ac5481efd2179a87))
+* skip broken url ([#20](https://github.com/ruzickap/darktable_video_tutorials_list/issues/20)) ([09d8e59](https://github.com/ruzickap/darktable_video_tutorials_list/commit/09d8e59e232c9365734abc29582cc88665d86eab))
+
 ## [v1.0.1](https://github.com/ruzickap/darktable_video_tutorials_list/compare/v1.0.0...v1.0.1) (2020-09-17)
 
 - Add GITHUB_TOKEN to super-linter [`#9`](https://github.com/ruzickap/darktable_video_tutorials_list/pull/9)
